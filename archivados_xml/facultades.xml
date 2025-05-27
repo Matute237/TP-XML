@@ -1,0 +1,143 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<facultad>1</facultad>
+		<nombre>Facultad Regional Avellaneda</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>2</facultad>
+		<nombre>Facultad Regional Bahía Blanca</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>7</facultad>
+		<nombre>Facultad Regional Buenos Aires</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>34</facultad>
+		<nombre>Facultad Regional Chubut</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>14</facultad>
+		<nombre>Facultad Regional Concepción del Uruguay</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>29</facultad>
+		<nombre>Facultad Regional Concordia</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>4</facultad>
+		<nombre>Facultad Regional Córdoba</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>28</facultad>
+		<nombre>Facultad Regional del Neuquén</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>23</facultad>
+		<nombre>Facultad Regional Delta</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>18</facultad>
+		<nombre>Facultad Regional General Pacheco</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>15</facultad>
+		<nombre>Facultad Regional Haedo</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>5</facultad>
+		<nombre>Facultad Regional La Plata</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>30</facultad>
+		<nombre>Facultad Regional La Rioja</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>36</facultad>
+		<nombre>Facultad Regional Mar del Plata</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>6</facultad>
+		<nombre>Facultad Regional Mendoza</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>13</facultad>
+		<nombre>Facultad Regional Paraná</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>20</facultad>
+		<nombre>Facultad Regional Rafaela</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>32</facultad>
+		<nombre>Facultad Regional Reconquista</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>3</facultad>
+		<nombre>Facultad Regional Resistencia</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>8</facultad>
+		<nombre>Facultad Regional Rosario</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>12</facultad>
+		<nombre>Facultad Regional San Francisco</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>9</facultad>
+		<nombre>Facultad Regional San Nicolás</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>19</facultad>
+		<nombre>Facultad Regional San Rafael</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>27</facultad>
+		<nombre>Facultad Regional Santa Cruz</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>10</facultad>
+		<nombre>Facultad Regional Santa Fe</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>25</facultad>
+		<nombre>Facultad Regional Tierra del Fuego</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>21</facultad>
+		<nombre>Facultad Regional Trenque Lauquen</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>11</facultad>
+		<nombre>Facultad Regional Tucumán</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>24</facultad>
+		<nombre>Facultad Regional Venado Tuerto</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>17</facultad>
+		<nombre>Facultad Regional Villa María</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>35</facultad>
+		<nombre>Instituto Nac. Sup. del Profesorado Técnico</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>26</facultad>
+		<nombre>No Usar - Unidad Académica Rawson</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>16</facultad>
+		<nombre>No Usar * Facultad Regional General Pico</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>31</facultad>
+		<nombre>No Usar * Unidad Académica Trelew</nombre>
+	</_expxml>
+	<_expxml>
+		<facultad>33</facultad>
+		<nombre>Rectorado</nombre>
+	</_expxml>
+</VFPData>

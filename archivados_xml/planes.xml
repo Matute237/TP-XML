@@ -1,0 +1,3483 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<especialidad>274</especialidad>
+		<plan>2009</plan>
+		<nombre/>
+	</_expxml>
+	<_expxml>
+		<especialidad>561</especialidad>
+		<plan>2019</plan>
+		<nombre>2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>71</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>72</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>73</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>74</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>75</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>78</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>86</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>88</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>169</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>171</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>200</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>203</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>221</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>231</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>249</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>251</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>252</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<plan>2000</plan>
+		<nombre>Plan 2000</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>41</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>42</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>43</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>148</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>149</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>160</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>161</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>162</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>163</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>220</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>253</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>254</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>255</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>301</especialidad>
+		<plan>2001</plan>
+		<nombre>Plan 2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>87</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>89</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>90</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>145</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>146</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>256</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>257</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>258</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>259</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>260</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>261</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>262</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>263</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>264</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>265</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>266</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>267</especialidad>
+		<plan>2002</plan>
+		<nombre>Plan 2002</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>47</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>59</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>92</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>95</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>119</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>205</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>206</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>207</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>208</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>209</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>210</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>211</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>222</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>223</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>224</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>225</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>268</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>269</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>270</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>271</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>303</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>304</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>953</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>2003</plan>
+		<nombre>Plan 2003 - NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>96</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>97</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>127</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>213</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>226</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>227</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>272</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>274</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>275</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>276</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>277</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>278</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>279</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>280</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>281</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>317</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>324</especialidad>
+		<plan>2004</plan>
+		<nombre>Plan 2004</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>58</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>99</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>123</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>124</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>125</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>126</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>128</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>133</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>250</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>283</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>284</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>285</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>286</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>287</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>288</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>299</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>951</especialidad>
+		<plan>2005</plan>
+		<nombre>Plan 2005</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>129</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>143</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>144</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>214</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>215</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>289</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>290</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>291</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>292</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>293</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>294</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>295</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>296</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>297</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>298</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>308</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>309</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>310</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>311</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>312</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>313</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>314</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>315</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>316</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>546</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>784</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>952</especialidad>
+		<plan>2006</plan>
+		<nombre>Plan 2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>48</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>132</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>134</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>137</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>216</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>307</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>318</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>319</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>320</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>321</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>322</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>323</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>326</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>327</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>328</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>329</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>330</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>331</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>343</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>346</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>347</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>348</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>351</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>352</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>353</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>354</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>425</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>782</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>783</especialidad>
+		<plan>2007</plan>
+		<nombre>Plan 2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>135</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>142</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>219</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>332</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>333</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>334</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>335</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>336</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>337</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>338</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>339</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>340</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>341</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>342</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>344</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>345</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>356</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>371</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>381</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>383</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>384</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>390</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>391</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>411</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>476</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>2008</plan>
+		<nombre>Plan 2008</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>221</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>302</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>382</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>392</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>394</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>410</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>424</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>426</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>427</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>428</especialidad>
+		<plan>2009</plan>
+		<nombre>Plan 2009</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>136</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>141</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>273</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>412</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>420</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>421</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>430</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>436</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>437</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>438</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>439</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>440</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>441</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>442</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>443</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>444</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>445</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>446</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>447</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>461</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>485</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>494</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>505</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>954</especialidad>
+		<plan>2010</plan>
+		<nombre>Plan 2010</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>49</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>138</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>139</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>140</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>460</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>480</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>481</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>482</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>483</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>488</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>489</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>490</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>491</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>500</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>950</especialidad>
+		<plan>2011</plan>
+		<nombre>Plan 2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>257</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>492</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>493</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>495</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>496</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>497</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>498</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>499</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>2012</plan>
+		<nombre>Plan 2012</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>350</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>471</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>501</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>502</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>503</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>504</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>506</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>507</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>508</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>509</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>511</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>522</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>787</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>955</especialidad>
+		<plan>2013</plan>
+		<nombre>Plan 2013</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>143</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>510</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>512</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>513</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>514</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>516</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>517</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>518</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>529</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>530</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>557</especialidad>
+		<plan>2014</plan>
+		<nombre>Plan 2014</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>142</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>148</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>343</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>344</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>515</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>519</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>520</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>521</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>523</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>524</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>525</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>527</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>528</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>531</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>532</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>534</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>535</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>785</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>956</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>957</especialidad>
+		<plan>2015</plan>
+		<nombre>Plan 2015</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>526</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>533</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>536</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>537</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>538</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>539</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>540</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>541</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>542</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>543</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>554</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>788</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>2016</plan>
+		<nombre>Plan 2016</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>144</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>145</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>219</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>391</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>410</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>544</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>545</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>547</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>548</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>549</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>550</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>551</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>552</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>553</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>555</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>556</especialidad>
+		<plan>2017</plan>
+		<nombre>Plan 2017</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>572</especialidad>
+		<plan>2018</plan>
+		<nombre>Plan 2018</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>573</especialidad>
+		<plan>2018</plan>
+		<nombre>Plan 2018</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>580</especialidad>
+		<plan>2018</plan>
+		<nombre>Plan 2018</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>589</especialidad>
+		<plan>2018</plan>
+		<nombre>Plan 2018</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>355</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>558</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>559</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>560</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>566</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>567</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>568</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>569</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>570</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>571</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>583</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>800</especialidad>
+		<plan>2019</plan>
+		<nombre>Plan 2019</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>301</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>302</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>495</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>581</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>582</especialidad>
+		<plan>2020</plan>
+		<nombre>Plan 2020</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>2021</plan>
+		<nombre>Plan 2021</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>584</especialidad>
+		<plan>2021</plan>
+		<nombre>Plan 2021</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>585</especialidad>
+		<plan>2021</plan>
+		<nombre>Plan 2021</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>586</especialidad>
+		<plan>2021</plan>
+		<nombre>Plan 2021</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>587</especialidad>
+		<plan>2021</plan>
+		<nombre>Plan 2021</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>588</especialidad>
+		<plan>2021</plan>
+		<nombre>Plan 2021</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<plan>2022</plan>
+		<nombre>Plan 2022</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>500</especialidad>
+		<plan>2022</plan>
+		<nombre>Plan 2022</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>590</especialidad>
+		<plan>2022</plan>
+		<nombre>Plan 2022</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>591</especialidad>
+		<plan>2022</plan>
+		<nombre>Plan 2022</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>592</especialidad>
+		<plan>2022</plan>
+		<nombre>Plan 2022</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>789</especialidad>
+		<plan>2022</plan>
+		<nombre>Plan 2022</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>510</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>573</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>593</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>594</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>595</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>596</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>597</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>598</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>599</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>600</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>601</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>602</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>603</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>604</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>605</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>606</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>607</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>608</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>612</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>2023</plan>
+		<nombre>Plan 2023</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>2024</plan>
+		<nombre>Plan 2024</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>49</especialidad>
+		<plan>2024</plan>
+		<nombre>Plan 2024</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>609</especialidad>
+		<plan>2024</plan>
+		<nombre>Plan 2024</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>610</especialidad>
+		<plan>2024</plan>
+		<nombre>Plan 2024</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<plan>2025</plan>
+		<nombre>Plan 2025</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>611</especialidad>
+		<plan>2025</plan>
+		<nombre>Plan 2025</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>56</plan>
+		<nombre>Plan 56</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>40</especialidad>
+		<plan>56</plan>
+		<nombre>Plan 56</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>30</especialidad>
+		<plan>57</plan>
+		<nombre>Plan 57</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>59</plan>
+		<nombre>Plan 59</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>39</especialidad>
+		<plan>58</plan>
+		<nombre>Plan 59</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>229</especialidad>
+		<plan>59</plan>
+		<nombre>Plan 59</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>228</especialidad>
+		<plan>65</plan>
+		<nombre>Plan 65</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>68</plan>
+		<nombre>Plan 68</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<plan>68</plan>
+		<nombre>Plan 68</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>71</plan>
+		<nombre>Plan 71</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>71</plan>
+		<nombre>Plan 71</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>72</plan>
+		<nombre>Plan 72</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>72</plan>
+		<nombre>Plan 72</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>69</especialidad>
+		<plan>73</plan>
+		<nombre>Plan 73</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>74</plan>
+		<nombre>Plan 74</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>74</plan>
+		<nombre>Plan 74</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>74</plan>
+		<nombre>Plan 74</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>74</plan>
+		<nombre>Plan 74</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>74</plan>
+		<nombre>Plan 74</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>83</especialidad>
+		<plan>75</plan>
+		<nombre>Plan 75</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<plan>77</plan>
+		<nombre>Plan 77</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>4</especialidad>
+		<plan>77</plan>
+		<nombre>Plan 77</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>77</plan>
+		<nombre>Plan 77</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>79</plan>
+		<nombre>Plan 79</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>80</especialidad>
+		<plan>82</plan>
+		<nombre>Plan 82</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>82</plan>
+		<nombre>Plan 82</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>82</especialidad>
+		<plan>82</plan>
+		<nombre>Plan 82</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<plan>83</plan>
+		<nombre>Plan 83 NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>3</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>12</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>80</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>82</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>85</plan>
+		<nombre>Plan 85</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>86</plan>
+		<nombre>Plan 86</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>28</especialidad>
+		<plan>86</plan>
+		<nombre>Plan 86</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>87</plan>
+		<nombre>Plan 87</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>11</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>12</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>13</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>16</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>20</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<plan>88</plan>
+		<nombre>Plan 88</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>89</plan>
+		<nombre>Plan 89</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>151</especialidad>
+		<plan>89</plan>
+		<nombre>Plan 89</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<plan>94</plan>
+		<nombre>Plan 94</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>94</plan>
+		<nombre>Plan 94</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>3</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>10</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>32</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>33</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>35</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>113</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>980</especialidad>
+		<plan>95</plan>
+		<nombre>Plan 95</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>152</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>167</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>232</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>233</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>234</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>235</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>236</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>237</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>238</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>239</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>240</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>241</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>242</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>300</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>305</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>306</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>325</especialidad>
+		<plan>96</plan>
+		<nombre>Plan 96</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>114</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>153</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>168</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>182</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>183</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>190</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>191</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>192</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>193</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>199</especialidad>
+		<plan>97</plan>
+		<nombre>Plan 97</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>71</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>72</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>73</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>74</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>75</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>76</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>77</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>109</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>111</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>150</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>173</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>174</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>175</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>176</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>177</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>178</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>179</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>180</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>181</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>188</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>194</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>195</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>196</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>197</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>198</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>202</especialidad>
+		<plan>98</plan>
+		<nombre>Plan 98</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>45</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>112</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>155</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>156</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>157</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>158</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>170</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>172</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>184</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>185</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>186</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>187</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>189</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>243</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>244</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>245</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>246</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>247</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>248</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>350</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>99</plan>
+		<nombre>Plan 99</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>60</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-46</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>61</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-47</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>62</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-48</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>63</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-49</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>64</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-50</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>65</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-51</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>66</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-52</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>67</especialidad>
+		<plan>94</plan>
+		<nombre>Plan T-53</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>69</especialidad>
+		<plan>2007</plan>
+		<nombre>Resolución Ministerial Nº 1020/2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>779</especialidad>
+		<plan>2011</plan>
+		<nombre>Resolución Ministerial Nº 1280/2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>781</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 1391/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>70</especialidad>
+		<plan>2007</plan>
+		<nombre>Resolución Ministerial Nº 163/2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>780</especialidad>
+		<plan>2007</plan>
+		<nombre>Resolución Ministerial Nº 243/2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>68</especialidad>
+		<plan>2007</plan>
+		<nombre>Resolución Ministerial Nº 281/2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>786</especialidad>
+		<plan>2011</plan>
+		<nombre>Resolución Ministerial Nº 393/2011</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>63</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 568/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>62</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 706/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>64</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 709/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>60</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 766/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>66</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 769/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>65</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 770/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>67</especialidad>
+		<plan>2007</plan>
+		<nombre>Resolución Ministerial Nº 771/2007</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>61</especialidad>
+		<plan>2006</plan>
+		<nombre>Resolución Ministerial Nº 916/2006</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<plan>0</plan>
+		<nombre>Sin Plan</nombre>
+	</_expxml>
+</VFPData>

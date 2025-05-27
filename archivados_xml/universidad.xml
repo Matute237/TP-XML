@@ -1,0 +1,351 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<universida>1</universida>
+		<nombre>Universidad Nacional de Buenos Aires</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>2</universida>
+		<nombre>Universidad Nacional de Catamarca</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>3</universida>
+		<nombre>Universidad Nacional del Centro de la Prov. de Buenos Aires</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>4</universida>
+		<nombre>Universidad Nacional del Comahue</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>5</universida>
+		<nombre>Universidad Nacional de Córdoba</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>6</universida>
+		<nombre>Universidad Nacional de Cuyo</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>7</universida>
+		<nombre>Universidad Nacional de Entre Ríos</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>8</universida>
+		<nombre>Universidad Nacional de Jujuy</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>9</universida>
+		<nombre>Universidad Nacional de la Pampa</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>10</universida>
+		<nombre>Universidad Nacional de la Patagonia San Juan Bosco</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>11</universida>
+		<nombre>Universidad Nacional de la Plata</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>12</universida>
+		<nombre>Universidad Nacional del Litoral</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>13</universida>
+		<nombre>Universidad Nacional de Lomas de Zamora</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>14</universida>
+		<nombre>Universidad Nacional de Luján</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>15</universida>
+		<nombre>Universidad Nacional de Mar del Plata</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>16</universida>
+		<nombre>Universidad Nacional de Misiones</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>17</universida>
+		<nombre>Universidad Nacional del Nordeste</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>18</universida>
+		<nombre>Universidad Nacional de Río Cuarto</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>19</universida>
+		<nombre>Universidad Nacional de Rosario</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>20</universida>
+		<nombre>Universidad Nacional de Salta</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>21</universida>
+		<nombre>Universidad Nacional de San Juan</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>22</universida>
+		<nombre>Universidad Nacional de San Luis</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>23</universida>
+		<nombre>Universidad Nacional de Santiago del Estero</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>24</universida>
+		<nombre>Universidad Nacional del Sur</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>25</universida>
+		<nombre>Universidad Tecnologica Nacional</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>26</universida>
+		<nombre>Universidad Nacional de Tucumán</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>27</universida>
+		<nombre>Universidad Nacional de La Rioja</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>28</universida>
+		<nombre>Universidad Nacional General San Martín</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>29</universida>
+		<nombre>Universidad Nacional de la Patagonia Austral</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>30</universida>
+		<nombre>Universidad Nacional General Sarmiento</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>31</universida>
+		<nombre>Universidad Católica Argentina - Santa María de los Bs As</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>32</universida>
+		<nombre>Universidad Nacional de Tres de Febrero</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>33</universida>
+		<nombre>Universidad de Palermo</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>34</universida>
+		<nombre>Universidad Argentina de la Empresa</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>35</universida>
+		<nombre>Universidad Nacional de Lanús</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>36</universida>
+		<nombre>Universidad Autónoma de Entre Ríos</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>37</universida>
+		<nombre>Universidad de Congreso</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>38</universida>
+		<nombre>Instituto Tecnológico de Buenos Aires</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>39</universida>
+		<nombre>Universidad Autónoma de Occidente</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>40</universida>
+		<nombre>Universidad de la Cuenca del Plata</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>53</universida>
+		<nombre>Universidad Nacional de Quilmes</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>54</universida>
+		<nombre>Universidad Nacional de Formosa</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>55</universida>
+		<nombre>Universidad Nacional de la Matanza</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>56</universida>
+		<nombre>Universidad de la Marina Mercante</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>57</universida>
+		<nombre>Universidad Industrial de Santander (Bucamaranga-Colombia)</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>58</universida>
+		<nombre>Universidad de Morón</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>59</universida>
+		<nombre>Universidad Argentina John F. Kennedy</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>60</universida>
+		<nombre>Universidad Católica de Córdoba</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>61</universida>
+		<nombre>Universidad de Gotinga</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>62</universida>
+		<nombre>Universidad de Belgrano</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>63</universida>
+		<nombre>Universita degli Studi di Mila</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>64</universida>
+		<nombre>Universidad Blas Pascal</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>65</universida>
+		<nombre>Universidad Nacional de México</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>66</universida>
+		<nombre>Universidad Católica de Santiago del Estero</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>67</universida>
+		<nombre>Universidad de la República del Uruguay</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>68</universida>
+		<nombre>Universidad Católica de Buenos Aires</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>69</universida>
+		<nombre>Universidad del Salvador</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>70</universida>
+		<nombre>Universidad Católica de Venezuela</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>71</universida>
+		<nombre>Universidad Nacional de Asunción</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>72</universida>
+		<nombre>Universidad Católica A. Bello Venezuela</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>73</universida>
+		<nombre>Universidad Católica de Salta</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>74</universida>
+		<nombre>Instituto Universitario Aeronáutico</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>75</universida>
+		<nombre>Instituto Universitario de Estudios Navales y Marítimos</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>76</universida>
+		<nombre>Universidad del Norte Santo Tomás de Aquino</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>77</universida>
+		<nombre>Otra Institución</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>78</universida>
+		<nombre>Universidad Alas Peruanas,Facultad de Arquitect.e Ingenieria</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>79</universida>
+		<nombre>Universidad Católica de La Plata</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>80</universida>
+		<nombre>Universidad Nacional de Villa María</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>81</universida>
+		<nombre>Universidad Empresarial Siglo 21</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>82</universida>
+		<nombre>Universidad de Valparaíso</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>83</universida>
+		<nombre>Universidad Nacional de Avellaneda</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>84</universida>
+		<nombre>Universidad Nacional de Tierra del Fuego</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>90</universida>
+		<nombre>Escuela de Ingeniería Aeronáutica de Córdoba</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>91</universida>
+		<nombre>Instituto Católico del Profesorado</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>92</universida>
+		<nombre>Instituto de Enseñanza Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>93</universida>
+		<nombre>Instituto de Enseñanza Superior del Ejército</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>94</universida>
+		<nombre>Institulo Superior de Informática</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>95</universida>
+		<nombre>Instituto Universitario Aeronáutico de Córdoba</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>96</universida>
+		<nombre>Universidad del Ejército</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>97</universida>
+		<nombre>Escuela Superior Técnica</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>98</universida>
+		<nombre>Universidad Nacional del Noroeste de Buenos Aires</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>99</universida>
+		<nombre>Universidad de Ciencias Empresariales y Sociales</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>100</universida>
+		<nombre>Instituto de Formacion Superior "Fundacion Renault"</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>101</universida>
+		<nombre>Universidad de la Defensa Nacional</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>102</universida>
+		<nombre>Universidad Católica Boliviana San Pablo</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>103</universida>
+		<nombre>Universidad de Carabobo</nombre>
+	</_expxml>
+	<_expxml>
+		<universida>104</universida>
+		<nombre>Universidad de los Andes MERIDA VENEZUELA</nombre>
+	</_expxml>
+</VFPData>

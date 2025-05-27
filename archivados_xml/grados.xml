@@ -1,0 +1,155 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<grado>7</grado>
+		<nombre>Ad-honorem</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>3</grado>
+		<nombre>Adjunto</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>2</grado>
+		<nombre>Asociado</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>5</grado>
+		<nombre>Ayudante 1ra</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>6</grado>
+		<nombre>Ayudante 2da</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>35</grado>
+		<nombre>Ayudante de 1ra. de Laboratorio</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>38</grado>
+		<nombre>Ayudante de 2da. de Laboratorio</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>29</grado>
+		<nombre>Bedel</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>23</grado>
+		<nombre>Consejero Académico</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>22</grado>
+		<nombre>Consejero de Consejo Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>24</grado>
+		<nombre>Consejero Departamental</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>12</grado>
+		<nombre>Decano</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>17</grado>
+		<nombre>Director de Centro</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>20</grado>
+		<nombre>Director de Departamento</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>19</grado>
+		<nombre>Director de Escuela</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>18</grado>
+		<nombre>Director de Instituto</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>16</grado>
+		<nombre>Director de Unidad Académica</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>21</grado>
+		<nombre>Director de Unidad Docente Básica</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>32</grado>
+		<nombre>Jefe de Departamento</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>33</grado>
+		<nombre>Jefe de Laboratorio Adjunto</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>34</grado>
+		<nombre>Jefe de Laboratorio Asociado</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>37</grado>
+		<nombre>Jefe de Laboratorio Titular</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>36</grado>
+		<nombre>Jefe Trabajos Prácticos de Laboratorio</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>4</grado>
+		<nombre>JTP</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>8</grado>
+		<nombre>JTP a cargo</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>27</grado>
+		<nombre>Miembro de comisiones asesoras</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>28</grado>
+		<nombre>Otras responsabilidades de Gestión</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>26</grado>
+		<nombre>Participante de Programa institucional</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>30</grado>
+		<nombre>Profesor</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>39</grado>
+		<nombre>Profesor Consulto</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>10</grado>
+		<nombre>Rector</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>31</grado>
+		<nombre>Regente</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>25</grado>
+		<nombre>Responsable de Programa Institucional</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>15</grado>
+		<nombre>Secretario de Facultad</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>14</grado>
+		<nombre>Secretario de Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>1</grado>
+		<nombre>Titular</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>13</grado>
+		<nombre>Vicedecano</nombre>
+	</_expxml>
+	<_expxml>
+		<grado>11</grado>
+		<nombre>Vicerector</nombre>
+	</_expxml>
+</VFPData>

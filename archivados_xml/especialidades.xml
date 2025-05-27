@@ -1,0 +1,2463 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<_expxml>
+		<especialidad>800</especialidad>
+		<nombre>Actividades Académicas de Posgrado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>1</especialidad>
+		<nombre>Análisis de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>2</especialidad>
+		<nombre>Análisis de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>3</especialidad>
+		<nombre>Análisis Universitario Sistemas (I.S.I.) * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>785</especialidad>
+		<nombre>Bachillerato c/orient. Tecnológica en Construcciones Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>788</especialidad>
+		<nombre>Bachillerato p/Adultos Nivel Secundario - Ori. Gestion y Adm</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>599</especialidad>
+		<nombre>Bioingeniería</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>557</especialidad>
+		<nombre>C.P.A Fisicoquímica de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>554</especialidad>
+		<nombre>C.P.A La Evaluación de los Aprendizajes en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>556</especialidad>
+		<nombre>C.P.A La Evaluación de los Aprendizajes en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>555</especialidad>
+		<nombre>C.P.A Selec. y Ctrl. de Procesos de Soldadura por Acto Elec</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>517</especialidad>
+		<nombre>C.P.A Tópicos Avanzados sobre Tecnología CMOS</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>366</especialidad>
+		<nombre>C.P.A. Administración de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>210</especialidad>
+		<nombre>C.P.A. Administración de Proyectos de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>287</especialidad>
+		<nombre>C.P.A. Álgebra</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>320</especialidad>
+		<nombre>C.P.A. Álgebra Lineal Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>198</especialidad>
+		<nombre>C.P.A. An. y Dis. de Sist. de Información Orientados a Objet</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>468</especialidad>
+		<nombre>C.P.A. Aná.,dis. y present.de com.científicas y tecnológicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>467</especialidad>
+		<nombre>C.P.A. Análisis de imágenes biomédicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>474</especialidad>
+		<nombre>C.P.A. Análisis de imágenes satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>457</especialidad>
+		<nombre>C.P.A. Análisis de riesgo Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>473</especialidad>
+		<nombre>C.P.A. Análisis de señales mediante onditas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>395</especialidad>
+		<nombre>C.P.A. Análisis de Señales y Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>549</especialidad>
+		<nombre>C.P.A. Análisis de Señales y sus Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>359</especialidad>
+		<nombre>C.P.A. Análisis Funcional y Métodos Variacionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>190</especialidad>
+		<nombre>C.P.A. Análisis y Cálculo Numérico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>272</especialidad>
+		<nombre>C.P.A. Análisis y Diagnóstico de Vibraciones Mecánicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>387</especialidad>
+		<nombre>C.P.A. Arquitectura de Redes de Telecomunicaciones Avanzadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>187</especialidad>
+		<nombre>C.P.A. Aspec Introd al Diseño y Análisis de Experimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>256</especialidad>
+		<nombre>C.P.A. Auditoría de Gestión Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>209</especialidad>
+		<nombre>C.P.A. Auditoría y Seguridad Informática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>169</especialidad>
+		<nombre>C.P.A. Automación Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>281</especialidad>
+		<nombre>C.P.A. Avances en Catálisis y Procesos Catalíticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>334</especialidad>
+		<nombre>C.P.A. Bases Teóricas y Metodológicas de la Investigación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>513</especialidad>
+		<nombre>C.P.A. Bombas y Sistemas de Bombeo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>259</especialidad>
+		<nombre>C.P.A. Buses Ind.de Trans.de Datos y su Aplic.en Vehículos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>319</especialidad>
+		<nombre>C.P.A. Cálculo en paralelo con MPI y PETSC</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>283</especialidad>
+		<nombre>C.P.A. Cálculo Numérico y Técnicas de Discretización</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>364</especialidad>
+		<nombre>C.P.A. Cálculo Paralelo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>478</especialidad>
+		<nombre>C.P.A. Calidad de la Energía</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>196</especialidad>
+		<nombre>C.P.A. Calidad y Productividad en el Desarrollo de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>205</especialidad>
+		<nombre>C.P.A. Cañerías Industriales(PIPING)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>240</especialidad>
+		<nombre>C.P.A. Catálisis Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>238</especialidad>
+		<nombre>C.P.A. Catálisis por Metales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>235</especialidad>
+		<nombre>C.P.A. Catálisis por Zeolitas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>173</especialidad>
+		<nombre>C.P.A. Ciencia e Ingeniería de Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>237</especialidad>
+		<nombre>C.P.A. Ciencia y Tecnología del Craqueo Catalítico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>162</especialidad>
+		<nombre>C.P.A. Cinética Quím.Avanzada Aplicada a Procesos Cat.Het</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>315</especialidad>
+		<nombre>C.P.A. Circuitos Analógicos y Digitales Configurables</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>262</especialidad>
+		<nombre>C.P.A. Comprensión, Pensamiento y Actividad en Matemática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>172</especialidad>
+		<nombre>C.P.A. Comunicaciones Digitales en Banda Ancha</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>368</especialidad>
+		<nombre>C.P.A. Comunicaciones Inalámbricas y Redes Móviles</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>373</especialidad>
+		<nombre>C.P.A. Concesiones Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>271</especialidad>
+		<nombre>C.P.A. Const.,Evaluac. y Rehabilitación de Pav.de Hormigón</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>157</especialidad>
+		<nombre>C.P.A. Control de Calidad de Hormigones en Obra</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>288</especialidad>
+		<nombre>C.P.A. Control de Calidad de Obras Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>286</especialidad>
+		<nombre>C.P.A. Control Lineal Avanzado y no Lineal</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>277</especialidad>
+		<nombre>C.P.A. Control Líneal Basado en Variable de Estado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>403</especialidad>
+		<nombre>C.P.A. Corrosión Metálica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>239</especialidad>
+		<nombre>C.P.A. Cromatografía en Fase Gaseosa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>159</especialidad>
+		<nombre>C.P.A. Cuerpo Académico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>203</especialidad>
+		<nombre>C.P.A. De las Cavernas a los Fractales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>269</especialidad>
+		<nombre>C.P.A. Derecho Informático</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>386</especialidad>
+		<nombre>C.P.A. Diagrama de Equilibrio Ternario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>367</especialidad>
+		<nombre>C.P.A. Didáctica General en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>540</especialidad>
+		<nombre>C.P.A. Dinámica y Control de Motores Eléctricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>482</especialidad>
+		<nombre>C.P.A. Dirección y Administración de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>541</especialidad>
+		<nombre>C.P.A. Dis. de Sist. Digitales desc. en VHDL e imp. en FPGAs</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>388</especialidad>
+		<nombre>C.P.A. Diseño de Circuitos Integrados Analógicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>374</especialidad>
+		<nombre>C.P.A. Diseño Geométrico Vial mediante Herram.informáticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>469</especialidad>
+		<nombre>C.P.A. Diseño y organización del trabajo de tersis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>314</especialidad>
+		<nombre>C.P.A. Diseños de Sist. de Trat.de Desagües asistido por Com</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>267</especialidad>
+		<nombre>C.P.A. Diseños Experimentales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>158</especialidad>
+		<nombre>C.P.A. Durabilidad de  Estrcturas  de Hormigón Armado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>331</especialidad>
+		<nombre>C.P.A. Elementos de Criptografía</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>458</especialidad>
+		<nombre>C.P.A. Emisiones gaseosas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>168</especialidad>
+		<nombre>C.P.A. en Administración Empresarial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>152</especialidad>
+		<nombre>C.P.A. en Dirección de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>153</especialidad>
+		<nombre>C.P.A. en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>462</especialidad>
+		<nombre>C.P.A. Energía Solar: Fund.Aplic.y su rel.con el cam.climati</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>192</especialidad>
+		<nombre>C.P.A. Epistemología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>289</especialidad>
+		<nombre>C.P.A. Ergonomía aplicada a las actividades proyectuales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>536</especialidad>
+		<nombre>C.P.A. Ergonomía Laboral</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>241</especialidad>
+		<nombre>C.P.A. Est.de la Inter.de los Fén.de Transp.y Reactores Cat.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>222</especialidad>
+		<nombre>C.P.A. Estab.del Equilibrio: Pandeo en Barras y Pórticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>249</especialidad>
+		<nombre>C.P.A. Estructura Inter.y Dosif. de Horm.de Cem.Portland</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>443</especialidad>
+		<nombre>C.P.A. Estructura y Comportamiento Mecánico de los Metales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>509</especialidad>
+		<nombre>C.P.A. Estudio y Simulación de Turbulencias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>155</especialidad>
+		<nombre>C.P.A. Evaluación de Estructuras de Hormigón en Servicio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>508</especialidad>
+		<nombre>C.P.A. Fenómenos del Transporte Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>452</especialidad>
+		<nombre>C.P.A. Física de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>174</especialidad>
+		<nombre>C.P.A. Física del Estado Sólido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>447</especialidad>
+		<nombre>C.P.A. Física Metalúrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>163</especialidad>
+		<nombre>C.P.A. Físico Química de Nuevos Mat. Nanoestructurados</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>176</especialidad>
+		<nombre>C.P.A. Fisicoquímica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>294</especialidad>
+		<nombre>C.P.A. Formación de Agentes en Desarrollo Territorial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>225</especialidad>
+		<nombre>C.P.A. Formulación y Evaluación de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>552</especialidad>
+		<nombre>C.P.A. Fundamentos de Big Data</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>263</especialidad>
+		<nombre>C.P.A. Generación de Empresas Innovadoras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>465</especialidad>
+		<nombre>C.P.A. Geotecnia aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>347</especialidad>
+		<nombre>C.P.A. Gest.e Integr.de Proce.de Neg.en Emp.y en Entor.Busin</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>231</especialidad>
+		<nombre>C.P.A. Gestión Ambiental de Residuos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>182</especialidad>
+		<nombre>C.P.A. Gestión de Ingeniería Clínica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>188</especialidad>
+		<nombre>C.P.A. Gestión de la Comercialización y la Producción</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>261</especialidad>
+		<nombre>C.P.A. Gestión de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>394</especialidad>
+		<nombre>C.P.A. Gestión Integrada de los Recursos Hídricos en Acción</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>328</especialidad>
+		<nombre>C.P.A. Gestión Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>191</especialidad>
+		<nombre>C.P.A. Hidráulica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>470</especialidad>
+		<nombre>C.P.A. Historia de la Ciencia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>353</especialidad>
+		<nombre>C.P.A. Historia de la Ciencia y la Tecnología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>200</especialidad>
+		<nombre>C.P.A. Historia y Desarrollo del Pensamiento Científico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>156</especialidad>
+		<nombre>C.P.A. Hormigones Livianos: Tecnología y Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>275</especialidad>
+		<nombre>C.P.A. Identificación y Control Basado en Modelo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>371</especialidad>
+		<nombre>C.P.A. Iluminación Arquitectónica Exterior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>382</especialidad>
+		<nombre>C.P.A. Incertidumbre en las Mediciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>442</especialidad>
+		<nombre>C.P.A. Inestabilidad del Equilibrio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>184</especialidad>
+		<nombre>C.P.A. Ing de Software Técnicas Avanzadas de Diseño de Softw</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>284</especialidad>
+		<nombre>C.P.A. Ingeniería Aplicada a la Agroindustria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>421</especialidad>
+		<nombre>C.P.A. Ingeniería de la Conf.II.Diseño Inherentemente Seguro</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>481</especialidad>
+		<nombre>C.P.A. Ingeniería de Pavimentos Urbanos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>193</especialidad>
+		<nombre>C.P.A. Ingeniería en Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>160</especialidad>
+		<nombre>C.P.A. Inteligencia Artifical</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>211</especialidad>
+		<nombre>C.P.A. Inteligencia Artificial.Sist. Basados en los Conocimi</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>293</especialidad>
+		<nombre>C.P.A. Interoperabilidad de la Inf..Aspectos Sintáct.y Sem.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>232</especialidad>
+		<nombre>C.P.A. Introducción a la Catálisis Heterogénea</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>440</especialidad>
+		<nombre>C.P.A. Introducción a la Mecánica del Continuo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>463</especialidad>
+		<nombre>C.P.A. Introducción a las nanotecnologías</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>179</especialidad>
+		<nombre>C.P.A. Introducción a los Sistemas Lineales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>180</especialidad>
+		<nombre>C.P.A. Introducción a los Sistemas No Lineales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>311</especialidad>
+		<nombre>C.P.A. Introducción al Diseño de Elementos Mecánicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>280</especialidad>
+		<nombre>C.P.A. La Comunicación Científica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>332</especialidad>
+		<nombre>C.P.A. La Educación en Ambientes Enriquecidos con TICs</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>537</especialidad>
+		<nombre>C.P.A. La Formación del Ingeniero en la Era Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>252</especialidad>
+		<nombre>C.P.A. La Geometría y el Desarrollo del Pens. Matemático</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>338</especialidad>
+		<nombre>C.P.A. La Web Semántica: tecnologías y aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>408</especialidad>
+		<nombre>C.P.A. Las Organizaciones: Sentido y Significado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>195</especialidad>
+		<nombre>C.P.A. Lenguajes de Programación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>486</especialidad>
+		<nombre>C.P.A. Lógica Matemática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>339</especialidad>
+		<nombre>C.P.A. Lógica y Fundamentos de la Matemática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>379</especialidad>
+		<nombre>C.P.A. Logística del Transporte Portuario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>438</especialidad>
+		<nombre>C.P.A. Matemática Avanzada I</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>439</especialidad>
+		<nombre>C.P.A. Matemática Avanzada II</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>341</especialidad>
+		<nombre>C.P.A. Matemáticas Especiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>398</especialidad>
+		<nombre>C.P.A. Materiales Compuestos: Maderas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>363</especialidad>
+		<nombre>C.P.A. Materiales Magnéticos: Principios y Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>409</especialidad>
+		<nombre>C.P.A. Materiales Poliméricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>415</especialidad>
+		<nombre>C.P.A. Mecánica de los Modelos Constitutivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>444</especialidad>
+		<nombre>C.P.A. Mecánica de Sólidos Avanzada:Aplic.a Estruct.Esbeltas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>441</especialidad>
+		<nombre>C.P.A. Mecánica Racional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>164</especialidad>
+		<nombre>C.P.A. Mecanismos de las Reacciones Químicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>308</especialidad>
+		<nombre>C.P.A. Mét.p/Modelado, sim.,y contr.de sist.robóticos compl.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>412</especialidad>
+		<nombre>C.P.A. Metalurgía Física I</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>445</especialidad>
+		<nombre>C.P.A. Metalurgia Mecánica Aplic. al Conformado de Materiale</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>396</especialidad>
+		<nombre>C.P.A. Metalurgia, Física II</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>522</especialidad>
+		<nombre>C.P.A. Metod. y Epistemología de las Ciencia y la Tecnología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>214</especialidad>
+		<nombre>C.P.A. Método de los Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>351</especialidad>
+		<nombre>C.P.A. Metodología de la Investigación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>270</especialidad>
+		<nombre>C.P.A. Metodología de la Investigación Científica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>506</especialidad>
+		<nombre>C.P.A. Metodología de la Investigación Científica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>233</especialidad>
+		<nombre>C.P.A. Métodos Instrumentales de Caracterización de Sólidos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>236</especialidad>
+		<nombre>C.P.A. Métodos Modernos de Caracterización de Sólidos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>471</especialidad>
+		<nombre>C.P.A. Métodos numéricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>354</especialidad>
+		<nombre>C.P.A. Métodos Numéricos: modelos y simulación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>392</especialidad>
+		<nombre>C.P.A. Métodos para Valorar los Impactos Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>431</especialidad>
+		<nombre>C.P.A. Mod.y Sim.de Sistemas Dinámicos a parámetros concentr</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>475</especialidad>
+		<nombre>C.P.A. Model.de la rad.solar y sus aplic.en el sensado remot</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>330</especialidad>
+		<nombre>C.P.A. Modelación Científica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>327</especialidad>
+		<nombre>C.P.A. Modelado Conceptual Basado en Ontologías</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>417</especialidad>
+		<nombre>C.P.A. Modelado Formal de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>345</especialidad>
+		<nombre>C.P.A. Modelado y control avanzado de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>343</especialidad>
+		<nombre>C.P.A. Modelado, simulación  y síntesis de procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>389</especialidad>
+		<nombre>C.P.A. Modelización de Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>472</especialidad>
+		<nombre>C.P.A. Modelización por Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>245</especialidad>
+		<nombre>C.P.A. Modelos Interdisciplinarios de Invención Cient.y Tec.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>487</especialidad>
+		<nombre>C.P.A. Nanosensores</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>404</especialidad>
+		<nombre>C.P.A. Nanotecnología y Nanomateriales Poliméricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>230</especialidad>
+		<nombre>C.P.A. Ns.Tecnol. de Base de Datos Modelo Objs.y Rel. y XML</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>258</especialidad>
+		<nombre>C.P.A. Nuevas Mezclas Asfálticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>466</especialidad>
+		<nombre>C.P.A. Nuevas Tendencias en Hidrología Urbana</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>264</especialidad>
+		<nombre>C.P.A. Nvas.Tec.de Bases de Datos,Mod.Obj.Rel.y XML</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>322</especialidad>
+		<nombre>C.P.A. Ondas Elásticas, Emisión Acústica y sus Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>321</especialidad>
+		<nombre>C.P.A. Optoelectrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>208</especialidad>
+		<nombre>C.P.A. Patología y Terapéutica de Viviendas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>268</especialidad>
+		<nombre>C.P.A. Pericias Informáticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>405</especialidad>
+		<nombre>C.P.A. Pinturas y Recubrimientos para Sustratos Diversos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>234</especialidad>
+		<nombre>C.P.A. Preparación y Modificación de Materiales Zeolíticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>464</especialidad>
+		<nombre>C.P.A. Prevención y protección de la corrosión metálica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>485</especialidad>
+		<nombre>C.P.A. Problemáticas de la Enseñanza en la Universidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>171</especialidad>
+		<nombre>C.P.A. Proc. Indust. y su Control,Aplicación,Diseño y Sinton</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>340</especialidad>
+		<nombre>C.P.A. Procesamiento de Imágenes Satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>518</especialidad>
+		<nombre>C.P.A. Procesamiento de Señales con Hardware Reconfigurable</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>551</especialidad>
+		<nombre>C.P.A. Procesamiento de Señales e Imágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>274</especialidad>
+		<nombre>C.P.A. Procesamiento Digital de Imágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>178</especialidad>
+		<nombre>C.P.A. Procesamiento Digital de Señales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>414</especialidad>
+		<nombre>C.P.A. Procesamiento Sup.de Materiales Asistido por Plasma</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>456</especialidad>
+		<nombre>C.P.A. Procesos Fundamental.Fisicoquímicos y Microbiológicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>244</especialidad>
+		<nombre>C.P.A. Procesos Ind. y su Control, Aplic.,Dis.y Sint.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>362</especialidad>
+		<nombre>C.P.A. Propiedades Físicas de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>546</especialidad>
+		<nombre>C.P.A. Propiedades Mecánicas de los Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>253</especialidad>
+		<nombre>C.P.A. Propiedades y Aplicaciones de Óxidos de Perovskita</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>406</especialidad>
+		<nombre>C.P.A. Protección de Metales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>514</especialidad>
+		<nombre>C.P.A. Proyecto de Cañerías Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>254</especialidad>
+		<nombre>C.P.A. Química del Estado Sólido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>242</especialidad>
+		<nombre>C.P.A. Química Fina y Catálisis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>290</especialidad>
+		<nombre>C.P.A. Química Física Avanzada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>285</especialidad>
+		<nombre>C.P.A. Química Teórica y Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>223</especialidad>
+		<nombre>C.P.A. Radiaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>419</especialidad>
+		<nombre>C.P.A. Radiaciones Ionizantes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>255</especialidad>
+		<nombre>C.P.A. Rec.Av.en la Res.de Est.a Partir de Dif.de Polvos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>206</especialidad>
+		<nombre>C.P.A. Recipientes a Presión</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>251</especialidad>
+		<nombre>C.P.A. Redes de Com.,la Internet Ac. y los Prot.de Nvas.Gen.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>177</especialidad>
+		<nombre>C.P.A. Redes Neuronales Aplicadas a la Robótica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>183</especialidad>
+		<nombre>C.P.A. Redes Neuronales y Procesamiento de Imágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>348</especialidad>
+		<nombre>C.P.A. Reingeniería de Sistemas Orientado a Objetos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>266</especialidad>
+		<nombre>C.P.A. Resolución de Problemas en la escuela</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>356</especialidad>
+		<nombre>C.P.A. Riesgo Eléctrico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>484</especialidad>
+		<nombre>C.P.A. Robótica de manip.-Un abordaje desde los mod.cinem.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>446</especialidad>
+		<nombre>C.P.A. Selección y Diseño de Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>257</especialidad>
+		<nombre>C.P.A. Sim.de Compo.Elec. con el ATP-Alter.Trans.Program</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>432</especialidad>
+		<nombre>C.P.A. Simulación de Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>279</especialidad>
+		<nombre>C.P.A. Sis.Int.de Ges.-Cal.,Med.Am.y Sal.y Seg.Ocup.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>516</especialidad>
+		<nombre>C.P.A. Sist. Tol. a Fallas y Ef. de Rad. Ioniz. en Cir. Int.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>161</especialidad>
+		<nombre>C.P.A. Sistemas de Aprendizaje Artificial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>197</especialidad>
+		<nombre>C.P.A. Sistemas de Información Distribuidos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>186</especialidad>
+		<nombre>C.P.A. Sistemas de Información Geográficos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>422</especialidad>
+		<nombre>C.P.A. Sistemas de Razonamiento y Aprendizaje Automatizado</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>194</especialidad>
+		<nombre>C.P.A. Sistemas de Tiempo Real (STR)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>352</especialidad>
+		<nombre>C.P.A. Sistemas Lineales y no Lineales: Caos y Fractales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>295</especialidad>
+		<nombre>C.P.A. Sistemas Multifuentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>483</especialidad>
+		<nombre>C.P.A. Sistemas Multimediales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>207</especialidad>
+		<nombre>C.P.A. Sociedad de la Información y Economía Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>580</especialidad>
+		<nombre>C.P.A. Soldadura: fabric. bajo códigos, normas y reglament.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>479</especialidad>
+		<nombre>C.P.A. Téc.de prog.mix.-ent.y disy.p.el plan.y sec.óp.de pro</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>553</especialidad>
+		<nombre>C.P.A. Técnicas Ágiles de Desarrollo de Software</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>454</especialidad>
+		<nombre>C.P.A. Técnicas aplicables al desarrollo de Tesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>550</especialidad>
+		<nombre>C.P.A. Técnicas Avanzadas de Control</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>276</especialidad>
+		<nombre>C.P.A. Técnicas Avanzadas de Control Automático</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>335</especialidad>
+		<nombre>C.P.A. Técnicas de Comunicación Científica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>307</especialidad>
+		<nombre>C.P.A. Técnicas Mod.de Dis.Electrónico con Leng.Desc.de Hard</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>357</especialidad>
+		<nombre>C.P.A. Tecnología de la Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>397</especialidad>
+		<nombre>C.P.A. Tecnología de los Materiales Cerámicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>407</especialidad>
+		<nombre>C.P.A. Tecnología de Pinturas y Recubrimientos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>189</especialidad>
+		<nombre>C.P.A. Tecnología de Sistemas Aeroespaciales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>318</especialidad>
+		<nombre>C.P.A. Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>323</especialidad>
+		<nombre>C.P.A. Teoría General de las Vibraciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>342</especialidad>
+		<nombre>C.P.A. Teoría General del Método de los Elementos Finitos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>175</especialidad>
+		<nombre>C.P.A. Termodinámica de Sistemas Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>369</especialidad>
+		<nombre>C.P.A. Test de Circuitos y Sistemas Electrónicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>507</especialidad>
+		<nombre>C.P.A. Tópicos de Bioinformática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>199</especialidad>
+		<nombre>C.P.A. Tópicos de Economía</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>185</especialidad>
+		<nombre>C.P.A. Tópicos de Inteligencia Artificial Distribuida</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>309</especialidad>
+		<nombre>C.P.A. Tracción Eléctrica Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>336</especialidad>
+		<nombre>C.P.A. Transformada Onditas: Teoría y Aplicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>170</especialidad>
+		<nombre>C.P.A. Transmisión Digital</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>535</especialidad>
+		<nombre>C.P.A. Transporte y Distribución de Gas Natural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>312</especialidad>
+		<nombre>C.P.A. Tratamiento Variacional de la Dinámica Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>265</especialidad>
+		<nombre>C.P.A. Turbulencia Marina Aplicable a Biología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>400</especialidad>
+		<nombre>C.P.A. Uniones Mecánicas en Madera para Uso Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>260</especialidad>
+		<nombre>C.P.A. Utiliz.de Nvos.Prod,Mat.y Res.en las Est.Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>477</especialidad>
+		<nombre>C.P.A. Ventilación y Seguridad contra incendios en túneles</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>402</especialidad>
+		<nombre>C.P.A.Arci.,Zeo.y mat.Mes.Ord.como Ads.Sel.Prep,Carac y Ap.T</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>459</especialidad>
+		<nombre>C.P.A.Avances en el Diseño de Experimen.y Optimi.de Procesos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>433</especialidad>
+		<nombre>C.P.A.Avances re.en pro.de inf.por mét.ópt(más a.del a.de i)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>401</especialidad>
+		<nombre>C.P.A.Biocorrosión(Corros.Inducida Microbiológicamente,mic)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>181</especialidad>
+		<nombre>C.P.A.Cál de Variaciones e Introd a la Optimización Dinámica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>418</especialidad>
+		<nombre>C.P.A.Calib.de los Cód.de Dis.Estr.basados en el form.LRFD</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>346</especialidad>
+		<nombre>C.P.A.Calidad de Potencia en Sis.de Distrib.de Energía Eléc.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>429</especialidad>
+		<nombre>C.P.A.Car.quí.y fís.de sup.y na.de ca.,al mo.y com.con pr.es</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>399</especialidad>
+		<nombre>C.P.A.Comport.de Barras Comp.de Mad.Aser.yLam.Enc.p/Uso Estr</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>436</especialidad>
+		<nombre>C.P.A.Con.y usos de la tec.esp.para el est.y cons.del mediam</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>380</especialidad>
+		<nombre>C.P.A.Des.de Nvas Es.p/la Res.de fallas y el mant.en ins.ene</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>377</especialidad>
+		<nombre>C.P.A.Desarrollo,Prop.y Apli.de Mat.Zeolíticos y Mesoporosos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>337</especialidad>
+		<nombre>C.P.A.Dis. y Man.de Aplic.Web empleando los mod.UWA y UWAT</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>226</especialidad>
+		<nombre>C.P.A.Diseño, Constr. e Insp.en Inst.Semafóricas de Últ.Gen.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>385</especialidad>
+		<nombre>C.P.A.Dosif.y Contr.de Cal.en Mez.Asf.Esp.de Últ.Gen.en Cal.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>461</especialidad>
+		<nombre>C.P.A.Electromag.Aplic.y Antenas.Aplic.en Sec.Aero.y Automo.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>333</especialidad>
+		<nombre>C.P.A.Eval.de Tecnol.con el Enfoq.CTS(Ciencia,Tecnol. y Soc)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>378</especialidad>
+		<nombre>C.P.A.Fisico Química de Nvos.Mat.Nanoes.,Nanom. y Nanotecnol</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>453</especialidad>
+		<nombre>C.P.A.Fisicoq.de Nuevos Mat.Nanoest.,Nanom.y Nanotecnología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>326</especialidad>
+		<nombre>C.P.A.Fund.de Bioinfor.:Mod.Prob.para el Est.de Prot.y Ác.Nu</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>224</especialidad>
+		<nombre>C.P.A.Hormigón Pre y Postesado:Asp.T,Prá.y Eco.s/CIRSOC2001</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>420</especialidad>
+		<nombre>C.P.A.Ing.de la Con.I.Fu.y Ap.en Ma.,Pla.,y la Ges.Op.de Pr.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>451</especialidad>
+		<nombre>C.P.A.Ing.de las Reac.de Act.Cat.de Enl.C-C y C-H en Par.Liv</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>165</especialidad>
+		<nombre>C.P.A.Ing.de Reac.Activ.Cat.de Enlaces C-C y C-H en Para.Liv</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>358</especialidad>
+		<nombre>C.P.A.Ingeniería de Confiabil., Operativi.y Riesgo(ICOR2008)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>291</especialidad>
+		<nombre>C.P.A.Ingeniería de Mat:Tec.Avan.de Pro.y Mod.Sup.de Mat.Met</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>329</especialidad>
+		<nombre>C.P.A.Inv.Atm.Aplic.a la Mod.del Tiem.y del Cambio Clim.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>393</especialidad>
+		<nombre>C.P.A.La So.y los Re.Na.Su.yAg.en Co.de Se.en el sur de BsAs</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>455</especialidad>
+		<nombre>C.P.A.Materiales Zeolíticos:Síntesis, Caracteriz.y Aplicacio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>273</especialidad>
+		<nombre>C.P.A.Mecánica del Contínuo e Introd.a los métodos numéricos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>480</especialidad>
+		<nombre>C.P.A.Mercados Eléc.y Act.Reg.Org.,Op.y Pol Reg.p.la sustent</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>316</especialidad>
+		<nombre>C.P.A.Modelado y Síntesis con Leng.de Descrip.de Hardware</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>365</especialidad>
+		<nombre>C.P.A.Modeliz.de la Rad.Solar y sus Apli.en el Sensado Remot</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>375</especialidad>
+		<nombre>C.P.A.Nanoc.y Nanote.Quí.de Sup.y téc.mic.usa.p.la car.de na</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>361</especialidad>
+		<nombre>C.P.A.Patología,Vuln.,y Terap.de Ed.Esc.en Zonas de Elev.Sis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>372</especialidad>
+		<nombre>C.P.A.Planif.Terr.del Transp,Gest.Vial y Sist.de Participa.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>360</especialidad>
+		<nombre>C.P.A.Proces.Avanzado de Señales:Mét.Adapt.y Redes Neuronal.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>376</especialidad>
+		<nombre>C.P.A.Redes Neuronales Artificiales y Lógica Difusa en Ingen</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>423</especialidad>
+		<nombre>C.P.A.Res.y Evol.Microestructural en la Def.en Cal.de Aceros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>227</especialidad>
+		<nombre>C.P.A.Selección de Materiales para Usos Mecánicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>370</especialidad>
+		<nombre>C.P.A.Sim.Comput.de Flujos Turbulentos en la Capa Lím.Atmósf</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>344</especialidad>
+		<nombre>C.P.A.Síntesis y diseño de procesos utilizando progra.matem.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>292</especialidad>
+		<nombre>C.P.A.Sistemas Inteligentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>313</especialidad>
+		<nombre>C.P.A.Tecnología ambiental,des.sustentable y calidad de vida</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>416</especialidad>
+		<nombre>C.P.A.Tópicos Avanzados en Procesamiento Digital de Imágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>11</especialidad>
+		<nombre>Complemento de Ing. en Construcciones a Ing.Civil * NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>13</especialidad>
+		<nombre>Complemento de Ing. en Vías de Comunic.a Ing.Civil * NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>12</especialidad>
+		<nombre>Complemento de Ingeniería Hidráulica a Ing.Civil * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>151</especialidad>
+		<nombre>Curso de Post-Grado en Gestión Empresarial para Ingenieros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>778</especialidad>
+		<nombre>Diplomatura en Matemática Educativa para Nivel Secundario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>583</especialidad>
+		<nombre>Doctorado en Informática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>317</especialidad>
+		<nombre>Doctorado en Ing., mención Proces. de Señales e Imágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>300</especialidad>
+		<nombre>Doctorado en Ingeniería</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>303</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Acústica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>476</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Civil-Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>572</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Computación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>301</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Electrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>304</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Ensayos Estructurales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>427</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>325</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Ingenieria Civil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>302</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Materiales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>411</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Mecánica Teórica y Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>305</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Química</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>306</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Sist. de Información</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>511</especialidad>
+		<nombre>Doctorado en Ingeniería, mención Tecnologías Químicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>999</especialidad>
+		<nombre>Educación a Distancia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>547</especialidad>
+		<nombre>Esp. en Dirección y Gestión de Empresas Agro-Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>539</especialidad>
+		<nombre>Esp. en Energía Eléctrica, mención Transmisión y Distribuc.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>601</especialidad>
+		<nombre>Esp. en Gest. Logíst. Integral de la Caden. de Sumin.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>567</especialidad>
+		<nombre>Esp. en Gestión de la Innov. de Emp. Text. y de la Moda</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>542</especialidad>
+		<nombre>Esp. en Mant. de Inst. de Trans. y Dist. de la Energía Eléc.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>500</especialidad>
+		<nombre>Espec. en Patología y Control de Cal. de Est. Sismorresist.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>221</especialidad>
+		<nombre>Especial. en Ing.Estruc.Orien.a Rec.Cont.de Pres.,Cañ.y Equ.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>582</especialidad>
+		<nombre>Especialización en Automóviles de Competición</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>605</especialidad>
+		<nombre>Especialización en Bioeconomía Aplicada a la Agroindustria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>598</especialidad>
+		<nombre>Especialización en Centrales Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>430</especialidad>
+		<nombre>Especialización en Cien.de la Comp.con Orient.Bases de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>488</especialidad>
+		<nombre>Especialización en Computación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>146</especialidad>
+		<nombre>Especialización en Control e Insp. de Construc. Soldadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>437</especialidad>
+		<nombre>Especialización en Desarrollo Sustentable del Hábitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>350</especialidad>
+		<nombre>Especialización en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>538</especialidad>
+		<nombre>Especialización en Energía Eléctrica, mención Generación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>501</especialidad>
+		<nombre>Especialización en Ensayos Estructurales y no Destructivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>144</especialidad>
+		<nombre>Especialización en Ergonomía</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>428</especialidad>
+		<nombre>Especialización en Ges.de la Innovación y la Vin.Tecnológica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>383</especialidad>
+		<nombre>Especialización en Gestión de Sistemas Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>148</especialidad>
+		<nombre>Especialización en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>143</especialidad>
+		<nombre>Especialización en Ingeniería Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>504</especialidad>
+		<nombre>Especialización en Ingeniería Bioenergética</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>149</especialidad>
+		<nombre>Especialización en Ingeniería Clínica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>113</especialidad>
+		<nombre>Especialización en Ingeniería Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>100</especialidad>
+		<nombre>Especialización en Ingeniería en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>217</especialidad>
+		<nombre>Especialización en Ingeniería en Control Automático</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>145</especialidad>
+		<nombre>Especialización en Ingeniería en Mantenimiento</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>349</especialidad>
+		<nombre>Especialización en Ingeniería en Sistemas de Información</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>495</especialidad>
+		<nombre>Especialización en Ingeniería en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>130</especialidad>
+		<nombre>Especialización en Ingeniería Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>128</especialidad>
+		<nombre>Especialización en Ingeniería Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>102</especialidad>
+		<nombre>Especialización en Ingeniería Gerencial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>566</especialidad>
+		<nombre>Especialización en Ingeniería Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>494</especialidad>
+		<nombre>Especialización en Management Tecnológico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>581</especialidad>
+		<nombre>Especialización en Minería de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>502</especialidad>
+		<nombre>Especialización en Patologías y Terapéut. de la Construcción</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>150</especialidad>
+		<nombre>Especialización en Preparación y Evaluación de Proyectos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>390</especialidad>
+		<nombre>Especialización en Procesos Biotecnológicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>142</especialidad>
+		<nombre>Especialización en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>324</especialidad>
+		<nombre>Especialización en Sim.y Mec.Comp.Aplic.al Dis.en Ingeniería</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>597</especialidad>
+		<nombre>Especialización en Sistemas Electrónicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>154</especialidad>
+		<nombre>Especialización en Soldadura</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>147</especialidad>
+		<nombre>Especialización en Tecnología de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>610</especialidad>
+		<nombre>Especialización en Tecnologías de Información Geográfica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>219</especialidad>
+		<nombre>Especialización en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>6</especialidad>
+		<nombre>Ingeniería Aeronáutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>596</especialidad>
+		<nombre>Ingeniería Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>31</especialidad>
+		<nombre>Ingeniería Civil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>7</especialidad>
+		<nombre>Ingeniería Eléctrica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>8</especialidad>
+		<nombre>Ingeniería Electromecánica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>9</especialidad>
+		<nombre>Ingeniería Electrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>45</especialidad>
+		<nombre>Ingeniería en Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>30</especialidad>
+		<nombre>Ingeniería en Automotores</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>14</especialidad>
+		<nombre>Ingeniería en Comunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>21</especialidad>
+		<nombre>Ingeniería en Construcciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>39</especialidad>
+		<nombre>Ingeniería en Construcciones Aeronáuticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>228</especialidad>
+		<nombre>Ingeniería en Construcciones de Obras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>229</especialidad>
+		<nombre>Ingeniería en Construcciones Electromecánicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>40</especialidad>
+		<nombre>Ingeniería en Construcciones Mecánicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>586</especialidad>
+		<nombre>Ingeniería en Energía</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>49</especialidad>
+		<nombre>Ingeniería en Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>29</especialidad>
+		<nombre>Ingeniería en Seguridad e Higiene en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>5</especialidad>
+		<nombre>Ingeniería en Sistemas de Información</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>612</especialidad>
+		<nombre>Ingeniería en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>15</especialidad>
+		<nombre>Ingeniería en Telecomunicaciones - NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>571</especialidad>
+		<nombre>Ingeniería en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>16</especialidad>
+		<nombre>Ingeniería en Vías de Comunicación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>510</especialidad>
+		<nombre>Ingeniería Ferroviaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>20</especialidad>
+		<nombre>Ingeniería Hidráulica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>24</especialidad>
+		<nombre>Ingeniería Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>28</especialidad>
+		<nombre>Ingeniería Laboral</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>17</especialidad>
+		<nombre>Ingeniería Mecánica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>573</especialidad>
+		<nombre>Ingeniería Mecatrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>18</especialidad>
+		<nombre>Ingeniería Metalúrgica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>19</especialidad>
+		<nombre>Ingeniería Naval</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>25</especialidad>
+		<nombre>Ingeniería Pesquera</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>27</especialidad>
+		<nombre>Ingeniería Química</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>23</especialidad>
+		<nombre>Ingeniería Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>38</especialidad>
+		<nombre>Ingeniería Sanitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>26</especialidad>
+		<nombre>Ingeniería Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>22</especialidad>
+		<nombre>Ingeniería Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>900</especialidad>
+		<nombre>Ingresantes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>980</especialidad>
+		<nombre>Laboratorios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>92</especialidad>
+		<nombre>Licenciatura  en Gestión de la Producción Gráfica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>533</especialidad>
+		<nombre>Licenciatura en Adm. y Gestión en Inst. de Educación Sup.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>94</especialidad>
+		<nombre>Licenciatura en Administración de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>591</especialidad>
+		<nombre>Licenciatura en Administración de Empresas (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>84</especialidad>
+		<nombre>Licenciatura en Administración Rural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>90</especialidad>
+		<nombre>Licenciatura en Auditoría y Gestión Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>558</especialidad>
+		<nombre>Licenciatura en Automatización y Control</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>79</especialidad>
+		<nombre>Licenciatura en Ciencias Aplicadas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>98</especialidad>
+		<nombre>Licenciatura en Comercialización</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>560</especialidad>
+		<nombre>Licenciatura en Comercio Electrónico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>89</especialidad>
+		<nombre>Licenciatura en Desarrollo de Economías Regionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>202</especialidad>
+		<nombre>Licenciatura en Educación Física</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>82</especialidad>
+		<nombre>Licenciatura en Electromecánica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>80</especialidad>
+		<nombre>Licenciatura en Electrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>99</especialidad>
+		<nombre>Licenciatura en Enología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>381</especialidad>
+		<nombre>Licenciatura en Enseñanza de Ciencias del Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>426</especialidad>
+		<nombre>Licenciatura en Enseñanza de Ciencias del Ambiente(EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>95</especialidad>
+		<nombre>Licenciatura en Enseñanza de la Física</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>96</especialidad>
+		<nombre>Licenciatura en Enseñanza de la Matemática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>503</especialidad>
+		<nombre>Licenciatura en Gestión Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>608</especialidad>
+		<nombre>Licenciatura en Gestion Ambiental (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>499</especialidad>
+		<nombre>Licenciatura en Gestión de Emp. Turísticas y Hoteleras (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>129</especialidad>
+		<nombre>Licenciatura en Gestión de Empresas Turísticas-Ciclo Lic.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>88</especialidad>
+		<nombre>Licenciatura en Gestión de Negocios Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>519</especialidad>
+		<nombre>Licenciatura en Gestión Sustentable de las Agrocadenas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>93</especialidad>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>600</especialidad>
+		<nombre>Licenciatura en Higiene y Seguridad en el Trabajo (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>87</especialidad>
+		<nombre>Licenciatura en Informática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>97</especialidad>
+		<nombre>Licenciatura en la Enseñanza de la Química</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>201</especialidad>
+		<nombre>Licenciatura en Lengua Inglesa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>425</especialidad>
+		<nombre>Licenciatura en Lengua Inglesa - Ord.1146</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>355</especialidad>
+		<nombre>Licenciatura en Logística</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>602</especialidad>
+		<nombre>Licenciatura en Logística (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>81</especialidad>
+		<nombre>Licenciatura en Organización Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>526</especialidad>
+		<nombre>Licenciatura en Producción de Bioimágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>83</especialidad>
+		<nombre>Licenciatura en Sistemas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>86</especialidad>
+		<nombre>Licenciatura en Sistemas de Información</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>460</especialidad>
+		<nombre>Licenciatura en Tecnología Aplicada a la Seguridad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>85</especialidad>
+		<nombre>Licenciatura en Tecnología Educativa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>282</especialidad>
+		<nombre>Licenciatura en Tecnología Educativa (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>91</especialidad>
+		<nombre>Licenciatura en Tecnología Médica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>559</especialidad>
+		<nombre>Licenciatura en Tecnologías Inclusivas en Educación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>592</especialidad>
+		<nombre>Licenciatura en Tecnologías Inclusivas en Educación (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>570</especialidad>
+		<nombre>Maest. en Info. Ind., mención Sist. Físico-cibernéticos Ind.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>101</especialidad>
+		<nombre>Maestría en Administración de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>569</especialidad>
+		<nombre>Maestría en Ciencia Regional e Impacto Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>212</especialidad>
+		<nombre>Maestría en Desarrollo Sustentable del Hábitat Humano</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>410</especialidad>
+		<nombre>Maestría en Desarrollo Territorial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>103</especialidad>
+		<nombre>Maestría en Docencia Universitaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>450</especialidad>
+		<nombre>Maestría en Energías Renovables Mención Biomasa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>448</especialidad>
+		<nombre>Maestría en Energías Renovables Mención Eólica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>449</especialidad>
+		<nombre>Maestría en Energías Renovables Mención Solar</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>213</especialidad>
+		<nombre>Maestría en Gestión de la Educación Superior</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>568</especialidad>
+		<nombre>Maestría en Gestión de Residuos Sólidos Urbanos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>384</especialidad>
+		<nombre>Maestría en Gestión de Sistemas Agroalimentarios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>110</especialidad>
+		<nombre>Maestría en Ingeniería Acústica y de Sonido</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>105</especialidad>
+		<nombre>Maestría en Ingeniería Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>520</especialidad>
+		<nombre>Maestría en Ingeniería Bioenergética</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>104</especialidad>
+		<nombre>Maestría en Ingeniería en Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>106</especialidad>
+		<nombre>Maestría en Ingeniería en Control Automático</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>116</especialidad>
+		<nombre>Maestría en Ingeniería en Sistemas de Información</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>131</especialidad>
+		<nombre>Maestría en Ingeniería Estructural</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>424</especialidad>
+		<nombre>Maestría en Ingeniería Estructural Mecánica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>108</especialidad>
+		<nombre>Maestría en Ingeniería Estructural Sismorresistente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>528</especialidad>
+		<nombre>Maestría en Ingeniería Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>521</especialidad>
+		<nombre>Maestría en Instrumentos Satelitales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>534</especialidad>
+		<nombre>Maestría en Inteligencia de Negocios</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>589</especialidad>
+		<nombre>Maestría en Métodos Numéricos y Mecánica Computacional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>548</especialidad>
+		<nombre>Maestría en Minería de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>497</especialidad>
+		<nombre>Maestría en Planificación y Gestión de la Ingeniería Urbana</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>588</especialidad>
+		<nombre>Maestría en Planificación y Operaciones Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>391</especialidad>
+		<nombre>Maestría en Procesos Biotecnológicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>112</especialidad>
+		<nombre>Maestría en Radioquímica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>111</especialidad>
+		<nombre>Maestría en Reactores Nucleares</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>587</especialidad>
+		<nombre>Maestría en Redes de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>109</especialidad>
+		<nombre>Maestría en Siderurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>127</especialidad>
+		<nombre>Maestría en Sim. y Mec.Comp.Aplicada al Diseño en Ingeniería</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>115</especialidad>
+		<nombre>Maestría en Tecnología Aeroespacial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>107</especialidad>
+		<nombre>Maestría en Tecnología de los Alimentos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>530</especialidad>
+		<nombre>Maestría en Tecnología Satelital Mención Sist. de Aviónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>529</especialidad>
+		<nombre>Maestría en Tecnología Satelital Mención Sistemas Mecánicos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>167</especialidad>
+		<nombre>Maestría en Tecnologías Energéticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>218</especialidad>
+		<nombre>Maestría en Transporte</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>114</especialidad>
+		<nombre>Maestría en Transporte y Logística</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>166</especialidad>
+		<nombre>Mtría en Ciencias de la Computación con Orie. Base de Datos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>72</especialidad>
+		<nombre>Profesorado de Biología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>77</especialidad>
+		<nombre>Profesorado de Historia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>71</especialidad>
+		<nombre>Profesorado de Inglés</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>69</especialidad>
+		<nombre>Profesorado de Inglés e Inglés Técnico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>779</especialidad>
+		<nombre>Profesorado de Inglés para la Educación Inicial y Primaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>75</especialidad>
+		<nombre>Profesorado de Lengua</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>74</especialidad>
+		<nombre>Profesorado de Matemática</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>73</especialidad>
+		<nombre>Profesorado de Psicología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>76</especialidad>
+		<nombre>Profesorado de Tecnología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>68</especialidad>
+		<nombre>Profesorado en Disciplinas Industriales - CICLO -</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>780</especialidad>
+		<nombre>Profesorado en Docencia Superior - CICLO -</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>70</especialidad>
+		<nombre>Profesorado en Matemática y Matemática Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>220</especialidad>
+		<nombre>Profesorado Universitario en Tecnología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>250</especialidad>
+		<nombre>Sem.Actual.PG Las relaciones entre la formación y el empleo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>310</especialidad>
+		<nombre>Seminario de Posgrado de Actualización Emisión Acústica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>247</especialidad>
+		<nombre>Seminario Diseño y Organización del Trabajo de Tesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>296</especialidad>
+		<nombre>Seminario Investigación de Mercado y Des.de Prod.y Serv.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>246</especialidad>
+		<nombre>Seminario Metodología de la Investigación Científica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>278</especialidad>
+		<nombre>Seminario Nueva Normativa en Higiene y Seg. en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>243</especialidad>
+		<nombre>Seminario Taller Técnicas Aplicables al Desarrollo de Tesis</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>248</especialidad>
+		<nombre>Seminario Tecnología y Desarrollo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>594</especialidad>
+		<nombre>Tec. Univ. en Comercio Electrónico y Marketing Digital (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>607</especialidad>
+		<nombre>Tec. Univ. en Desarrollo y Producción de Videojuegos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>595</especialidad>
+		<nombre>Tec. Univ. en Gestión de Gobierno Electrónico (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>524</especialidad>
+		<nombre>Tec. Univ. en Medic. Fiscales y Oper. de Hidrocarburos (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>527</especialidad>
+		<nombre>Tec. Univ. en Perforación y Terminación de Pozos Petroleros</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>532</especialidad>
+		<nombre>Tec. Univ. en Procedimientos y Tecnologías Ambientales (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>603</especialidad>
+		<nombre>Tec. Univ. en Saneamiento y Producción de Agua Potable</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>496</especialidad>
+		<nombre>Tec. Univ. en Yac. Hidrocarburíferos No Convencionales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>525</especialidad>
+		<nombre>Tec. Univ. en Yacimientos Hidrocarburíferos No Conv. (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>78</especialidad>
+		<nombre>Tecnicatura en Comunicación Social</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>4</especialidad>
+		<nombre>Tecnicatura en Programación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>783</especialidad>
+		<nombre>Tecnicatura en Radiología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>789</especialidad>
+		<nombre>Tecnicatura para el Nivel Secundario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>62</especialidad>
+		<nombre>Tecnicatura Sup. en Mecánica, Automotores y Máqs.Térmicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>63</especialidad>
+		<nombre>Tecnicatura Superior en Automatización y Robótica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>61</especialidad>
+		<nombre>Tecnicatura Superior en Control Eléctrico y Accionamientos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>67</especialidad>
+		<nombre>Tecnicatura Superior en Diseño Tecnológico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>64</especialidad>
+		<nombre>Tecnicatura Superior en Electrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>66</especialidad>
+		<nombre>Tecnicatura Superior en Física y Física Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>60</especialidad>
+		<nombre>Tecnicatura Superior en Informática Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>786</especialidad>
+		<nombre>Tecnicatura Superior en Interiorismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>781</especialidad>
+		<nombre>Tecnicatura Superior en Obras Viales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>782</especialidad>
+		<nombre>Tecnicatura Superior en Prácticas Cardiológicas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>65</especialidad>
+		<nombre>Tecnicatura Superior en Química y Química Aplicada</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>48</especialidad>
+		<nombre>Tecnicatura Univ. en Adm.y Gestión en Inst.de Educación Sup.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>123</especialidad>
+		<nombre>Tecnicatura Univ. en Bromatología y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>47</especialidad>
+		<nombre>Tecnicatura Univ. en Energía Renovable y Medio Ambiente</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>137</especialidad>
+		<nombre>Tecnicatura Univ. en Equipos Viales, Mineros y Agrícolas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>523</especialidad>
+		<nombre>Tecnicatura Univ. en Fabricación de Maquinaria Agrícola</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>140</especialidad>
+		<nombre>Tecnicatura Univ. en Gestión de la Industria Automotriz</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>492</especialidad>
+		<nombre>Tecnicatura Univ. en Gestión de Tecnologías Agropecuarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>606</especialidad>
+		<nombre>Tecnicatura Univ. en Gestión y Admin. de Org. Sindicales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>119</especialidad>
+		<nombre>Tecnicatura Univ. en Higiene y Seguridad en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>216</especialidad>
+		<nombre>Tecnicatura Univ. en Higiene y Seguridad en el Trabajo (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>139</especialidad>
+		<nombre>Tecnicatura Univ. en Med.Fiscales y Op.de Hidrocarburos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>512</especialidad>
+		<nombre>Tecnicatura Univ. en Medio Ambiente Antártico y Subantártico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>297</especialidad>
+		<nombre>Tecnicatura Univ. en Medio Ambiente Marino Costero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>141</especialidad>
+		<nombre>Tecnicatura Univ. en Operación y Mant. de Redes Eléctricas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>493</especialidad>
+		<nombre>Tecnicatura Univ. en Procedimientos y Tecnolog. Ambientales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>59</especialidad>
+		<nombre>Tecnicatura Univ. en Sup.de Pro. Ind.con Orien.en Petroquím.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>117</especialidad>
+		<nombre>Tecnicatura Univ. en Tecnologías de la Información (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>124</especialidad>
+		<nombre>Tecnicatura Univ.en Acuicultura y Procesamiento Pesquero</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>609</especialidad>
+		<nombre>Tecnicatura Universitaria en Acompañamiento Terapéutico</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>125</especialidad>
+		<nombre>Tecnicatura Universitaria en Administración</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>498</especialidad>
+		<nombre>Tecnicatura Universitaria en Administración (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>298</especialidad>
+		<nombre>Tecnicatura Universitaria en Administración Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>35</especialidad>
+		<nombre>Tecnicatura Universitaria en Administración Rural * NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>132</especialidad>
+		<nombre>Tecnicatura Universitaria en Celulosa y Papel</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>561</especialidad>
+		<nombre>Tecnicatura Universitaria en Ciudades Inteligentes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>593</especialidad>
+		<nombre>Tecnicatura Universitaria en Ciudades Inteligentes (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>585</especialidad>
+		<nombre>Tecnicatura Universitaria en Contabilidad y Tributación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>134</especialidad>
+		<nombre>Tecnicatura Universitaria en Desarrollo Local y Regional</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>138</especialidad>
+		<nombre>Tecnicatura Universitaria en Diseño Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>10</especialidad>
+		<nombre>Tecnicatura Universitaria en Electrónica * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>544</especialidad>
+		<nombre>Tecnicatura Universitaria en Energías Sustentables</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>121</especialidad>
+		<nombre>Tecnicatura Universitaria en Enología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>543</especialidad>
+		<nombre>Tecnicatura Universitaria en Gestión Aeronáutica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>590</especialidad>
+		<nombre>Tecnicatura Universitaria en Gestión Aeronáutica (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>46</especialidad>
+		<nombre>Tecnicatura Universitaria en Gestión de Empresas Hoteleras</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>44</especialidad>
+		<nombre>Tecnicatura Universitaria en Gestión de Empresas Turísticas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>299</especialidad>
+		<nombre>Tecnicatura Universitaria en Gestión de la Calidad</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>32</especialidad>
+		<nombre>Tecnicatura Universitaria en Industrias Alimentarias</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>515</especialidad>
+		<nombre>Tecnicatura Universitaria en Logística</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>604</especialidad>
+		<nombre>Tecnicatura Universitaria en Logística (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>41</especialidad>
+		<nombre>Tecnicatura Universitaria en Mantenimiento Industrial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>490</especialidad>
+		<nombre>Tecnicatura Universitaria en Material Rodante Ferroviario</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>42</especialidad>
+		<nombre>Tecnicatura Universitaria en Mecatrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>491</especialidad>
+		<nombre>Tecnicatura Universitaria en Metalurgia</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>36</especialidad>
+		<nombre>Tecnicatura Universitaria en Metalurgia * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>545</especialidad>
+		<nombre>Tecnicatura Universitaria en Metrología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>531</especialidad>
+		<nombre>Tecnicatura Universitaria en Minería</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>136</especialidad>
+		<nombre>Tecnicatura Universitaria en Moldes, Matrices y Dispositivos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>118</especialidad>
+		<nombre>Tecnicatura Universitaria en Negociación de Bienes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>126</especialidad>
+		<nombre>Tecnicatura Universitaria en Periodismo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>58</especialidad>
+		<nombre>Tecnicatura Universitaria en Procesos Industriales</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>135</especialidad>
+		<nombre>Tecnicatura Universitaria en Procesos Productivos del Caucho</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>489</especialidad>
+		<nombre>Tecnicatura Universitaria en Producción Textil</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>34</especialidad>
+		<nombre>Tecnicatura Universitaria en Programación</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>611</especialidad>
+		<nombre>Tecnicatura Universitaria en Programación (EaD)</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>37</especialidad>
+		<nombre>Tecnicatura Universitaria en Química * NO USAR *</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>584</especialidad>
+		<nombre>Tecnicatura Universitaria en Radiología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>133</especialidad>
+		<nombre>Tecnicatura Universitaria en Recupero Crediticio</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>215</especialidad>
+		<nombre>Tecnicatura Universitaria en Seguridad Urbana y Portuaria</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>122</especialidad>
+		<nombre>Tecnicatura Universitaria en Seguridad Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>120</especialidad>
+		<nombre>Tecnicatura Universitaria en Sistemas Informáticos</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>505</especialidad>
+		<nombre>Tecnicatura Universitaria en Telecomunicaciones</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>33</especialidad>
+		<nombre>Tecnicatura Universitaria Pesquera *NO USAR</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>787</especialidad>
+		<nombre>Técnico en Electrónica</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>784</especialidad>
+		<nombre>Técnico Vial</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>43</especialidad>
+		<nombre>Tra.Sup.en Gestión de Mantenim.en Instituciones de Salud</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>953</especialidad>
+		<nombre>Trayecto de Articulación para Lic. en Adm. de Empresas</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>951</especialidad>
+		<nombre>Trayecto de Articulación para Lic. en Enología</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>950</especialidad>
+		<nombre>Trayecto de Articulación para Lic. en H y S en el Trabajo</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>952</especialidad>
+		<nombre>Trayecto de Articulación para Lic.en Gest. de Emp. Turístic.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>957</especialidad>
+		<nombre>Trayecto de Vinculación para la Lic. en Tecnología Educativa</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>955</especialidad>
+		<nombre>Trayecto de Vinculación para Lic. en Gestión Ambiental</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>956</especialidad>
+		<nombre>Trayecto de Vinculación para Lic. en Produc. de Bioimágenes</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>954</especialidad>
+		<nombre>Trayecto de Vinculación para Lic. en Tecnol. Apl. a la Seg.</nombre>
+	</_expxml>
+	<_expxml>
+		<especialidad>204</especialidad>
+		<nombre>Utilización de Nvos.Prod,Mat. y Residuos en las Estr.Viales</nombre>
+	</_expxml>
+</VFPData>
