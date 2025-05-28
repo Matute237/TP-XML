@@ -1,9 +1,5 @@
 import sys
 import os
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-if BASE_DIR not in sys.path:
-    sys.path.insert(0, BASE_DIR)
-
 from app import create_app, db
 from xml.etree import ElementTree as ET
 
@@ -17,8 +13,8 @@ class EspecialidadModel(db.Model):
 
 def importar_especialidades():
     # Configuraciones de entorno
-    os.environ['FLASK_CONTEXT'] = 'testing'
-    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/test_sysacad'
+    os.environ['FLASK_CONTEXT'] = 'development'
+    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
 
     app = create_app()
     with app.app_context():
