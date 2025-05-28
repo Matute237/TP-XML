@@ -1,66 +1,73 @@
 import os
 import sys
+import unittest
+from xml.etree import ElementTree as ET
+
+# Agregar el path del proyecto
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
-from xml.etree import ElementTree as ET
-from app import create_app, db
-from app.models.facultad import Facultad  # Importar tu modelo real
 
-os.environ['FLASK_CONTEXT'] = 'development'
+# Variables de entorno necesarias para Flask
+os.environ['FLASK_CONTEXT'] = 'testing'
 os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
 
+from app import create_app, db
+from app.models.facultad import Facultad
 
-def importar_facultades():
-    app = create_app()
-    with app.app_context():
-        db.create_all()
+class TestImportFacultades(unittest.TestCase):
 
+    @classmethod
+    def setUpClass(cls):
+        """Se ejecuta una vez antes de todos los tests"""
+        cls.app = create_app()
+        cls.app.config['TESTING'] = True
+        with cls.app.app_context():
+            db.create_all()
+
+    @classmethod
+    def tearDownClass(cls):
+        """Se ejecuta una vez después de todos los tests"""
+        with cls.app.app_context():
+            db.session.remove()
+            db.drop_all()
+
+    def test_importar_facultades(self):
+        """Testea que se puedan importar facultades desde el XML"""
         xml_file_path = os.path.join(BASE_DIR, 'archivados_xml', 'facultades.xml')
-
-        if not os.path.exists(xml_file_path):
-            print(f"ERROR: No se encontró el archivo XML: {xml_file_path}")
-            return
-
-        print(f"Importando desde: {xml_file_path}")
+        self.assertTrue(os.path.exists(xml_file_path), f"XML no encontrado: {xml_file_path}")
 
         tree = ET.parse(xml_file_path)
         root = tree.getroot()
 
         registros_importados = 0
-        for item in root.findall('_expxml'):
-            facultad_element = item.find('facultad')  # Fijate que el tag XML coincida con lo que usás
-            nombre_element = item.find('nombre')
+        with self.app.app_context():
+            for item in root.findall('_expxml'):
+                nombre_valor = item.findtext('nombre')
+                if not nombre_valor:
+                    continue
 
-            if facultad_element is not None and nombre_element is not None:
-                try:
-                    facultad_valor = int(facultad_element.text)
-                    nombre_valor = nombre_element.text
+                nueva_facultad = Facultad(
+                    nombre=nombre_valor,
+                    abreviatura=item.findtext('abreviatura'),
+                    directorio=item.findtext('directorio'),
+                    sigla=item.findtext('sigla'),
+                    codigo_postal=item.findtext('codigo_postal'),
+                    ciudad=item.findtext('ciudad'),
+                    domicilio=item.findtext('domicilio'),
+                    telefono=item.findtext('telefono'),
+                    contacto=item.findtext('contacto'),
+                    email=item.findtext('email'),
+                    codigo=item.findtext('codigo')
+                )
 
-                    # Creás el objeto Facultad con los datos mínimos que usás (id es autoincrement)
-                    new_entry = Facultad(
-                        nombre=nombre_valor,
-                        abreviatura=item.find('abreviatura').text if item.find('abreviatura') is not None else None,   
-                        directorio=item.find('directorio').text if item.find('directorio') is not None else None,
-                        sigla=item.find('sigla').text if item.find('sigla') is not None else None,
-                        codigo_postal=item.find('codigo_postal').text if item.find('codigo_postal') is not None else None,
-                        ciudad=item.find('ciudad').text if item.find('ciudad') is not None else None,
-                        domicilio=item.find('domicilio').text if item.find('domicilio') is not None else None,
-                        telefono=item.find('telefono').text if item.find('telefono') is not None else None,
-                        contacto=item.find('contacto').text if item.find('contacto') is not None else None,
-                        email=item.find('email').text if item.find('email') is not None else None,
-                        codigo=item.find('codigo').text if item.find('codigo') is not None else None
-                    )
+                db.session.add(nueva_facultad)
+                registros_importados += 1
 
-                    db.session.add(new_entry)
-                    registros_importados += 1
-                except Exception as e:
-                    print(f"Error al procesar item: {ET.tostring(item, encoding='unicode')}\n{e}")
-            else:
-                print(f"Skipping item por falta de 'facultad' o 'nombre': {ET.tostring(item, encoding='unicode')}")
+            db.session.commit()
 
-        db.session.commit()
-        print(f"Importación finalizada. Registros insertados: {registros_importados}")
+            total = db.session.query(Facultad).count()
+            self.assertGreaterEqual(total, registros_importados, "No se insertaron registros correctamente")
 
 if __name__ == '__main__':
-    importar_facultades()
+    unittest.main()
