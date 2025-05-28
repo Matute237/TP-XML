@@ -5,9 +5,9 @@ from app import create_app, db
 from xml.etree import ElementTree as ET
 
 # Modelo actualizado
-class UniversidadModel(db.Model):
-    __tablename__ = 'universidades'
-    id = db.Column(db.Integer, primary_key=True)
+class PaisModel(db.Model):
+    __tablename__ = 'paises'
+    pais = db.Column(db.Integer, primary_key=True)
     nombre = db.Column(db.String(255), nullable=False)
 
 class XMLImportTestCase(unittest.TestCase):
@@ -31,7 +31,7 @@ class XMLImportTestCase(unittest.TestCase):
     def test_import_xml_to_db(self):
         # Ruta del archivo XML
         xml_file_path = os.path.join(
-            os.path.dirname(__file__), '..', 'archivados_xml', 'universidad.xml'
+            os.path.dirname(__file__), '..', 'archivados_xml', 'paises.xml'
         )
 
         # Verificamos que el archivo exista
@@ -42,25 +42,27 @@ class XMLImportTestCase(unittest.TestCase):
         root = tree.getroot()
 
         for item in root.findall('_expxml'):
+            pais_element = item.find('pais')
             nombre_element = item.find('nombre')
 
             # Aseguramos que los elementos no sean None
-            if  nombre_element is not None:
+            if pais_element is not None and nombre_element is not None:
+                pais = pais_element.text
                 nombre = nombre_element.text
 
                 # Insertamos en la base de datos
-                new_entry = UniversidadModel( nombre=nombre)
+                new_entry = PaisModel(pais=pais, nombre=nombre)
                 db.session.add(new_entry)
             else:
-                print(f"skipeo el item por que falta algun dato. Nombre: {nombre_element}")
+                print(f"skipeo el item por que falta algun dato. Pais: {pais_element}, Nombre: {nombre_element}")
 
         db.session.commit()
 
         # Verificamos que los datos se hayan insertado correctamente
-        results = UniversidadModel.query.all()
+        results = PaisModel.query.all()
         self.assertGreater(len(results), 0, "No se insertaron datos en la base de datos.")
         for result in results:
-            print(f" Nombre: {result.nombre}")
+            print(f"Código: {result.pais}, Nombre: {result.nombre}")
 
 if __name__ == '__main__':
     unittest.main()
