@@ -11,8 +11,8 @@ class FacultadModel(db.Model):
 
 def importar_facultades():
     # Configuraciones para entorno de testing o producción según convenga
-    os.environ['FLASK_CONTEXT'] = 'testing'
-    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/test_sysacad'
+    os.environ['FLASK_CONTEXT'] = 'development'
+    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
 
     app = create_app()
     with app.app_context():
