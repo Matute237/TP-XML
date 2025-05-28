@@ -10,7 +10,7 @@ if BASE_DIR not in sys.path:
 
 # Variables de entorno necesarias para Flask
 os.environ['FLASK_CONTEXT'] = 'testing'
-os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
+os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://nico:nicoS@localhost:5432/test_sysacad'
 
 from app import create_app, db
 from app.models.facultad import Facultad
@@ -37,7 +37,8 @@ class TestImportFacultades(unittest.TestCase):
         xml_file_path = os.path.join(BASE_DIR, 'archivados_xml', 'facultades.xml')
         self.assertTrue(os.path.exists(xml_file_path), f"XML no encontrado: {xml_file_path}")
 
-        tree = ET.parse(xml_file_path)
+        with open(xml_file_path, 'r', encoding='windows-1252') as f:
+            tree = ET.parse(f)
         root = tree.getroot()
 
         registros_importados = 0
@@ -65,6 +66,7 @@ class TestImportFacultades(unittest.TestCase):
                 registros_importados += 1
 
             db.session.commit()
+
 
             total = db.session.query(Facultad).count()
             self.assertGreaterEqual(total, registros_importados, "No se insertaron registros correctamente")
