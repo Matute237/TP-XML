@@ -5,12 +5,13 @@ from app import create_app, db
 from xml.etree import ElementTree as ET
 
 # Modelo actualizado
-class FacultadModel(db.Model):
-    __tablename__ = 'facultades'
+class EspecialidadModel(db.Model):
+    __tablename__ = 'especialidades'
     id = db.Column(db.Integer, primary_key=True)
-    facultad = db.Column(db.Integer, nullable=False)
     nombre = db.Column(db.String(255), nullable=False)
-
+    letra = db.Column(db.string(255), nullable=False)
+    observacion = db.Column(db.String(255), nullable=True)
+    
 class XMLImportTestCase(unittest.TestCase):
 
     def setUp(self):
@@ -42,19 +43,21 @@ class XMLImportTestCase(unittest.TestCase):
         root = tree.getroot()
 
         for item in root.findall('_expxml'):
-            facultad_element = item.find('especialidad')
+            especialidad_element = item.find('especialidad')
             nombre_element = item.find('nombre')
+            observacion_element = item.find('observacion')
 
             # Aseguramos que los elementos no sean None
-            if facultad_element is not None and nombre_element is not None:
-                facultad = int(facultad_element.text)
+            if especialidad_element is not None and nombre_element is not None:
+                especialidad = especialidad_element.text
                 nombre = nombre_element.text
+                observacion = observacion_element.text
 
                 # Insertamos en la base de datos
-                new_entry = FacultadModel(facultad=facultad, nombre=nombre)
+                new_entry = EspecialidadModel(especialidad = especialidad, nombre=nombre, observacion = observacion)
                 db.session.add(new_entry)
             else:
-                print(f"Skipping item due to missing 'facultad' or 'nombre': {ET.tostring(item, encoding='unicode')}")
+                print(f"skipeo el item por que falta algun dato {ET.tostring(item, encoding='unicode')}")
 
         db.session.commit()
 
