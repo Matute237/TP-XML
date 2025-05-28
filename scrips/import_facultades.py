@@ -1,31 +1,58 @@
-import sys
-import xml.etree.ElementTree as ET
+import os
 from app import create_app, db
-from app.models.facultad import Facultad
+from xml.etree import ElementTree as ET
 
-def importar_facultades(xml_path: str):
-    """
-    Importa facultades desde un archivo XML al modelo Facultad.
-    """
-    app = create_app()  # Crear instancia de la app
+# Modelo Facultad, definirlo o importar según tu proyecto
+class FacultadModel(db.Model):
+    __tablename__ = 'facultades'
+    id = db.Column(db.Integer, primary_key=True)
+    facultad = db.Column(db.Integer, nullable=False)
+    nombre = db.Column(db.String(255), nullable=False)
+
+def importar_facultades():
+    # Configuraciones para entorno de testing o producción según convenga
+    os.environ['FLASK_CONTEXT'] = 'development'
+    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
+
+    app = create_app()
     with app.app_context():
-        tree = ET.parse(xml_path)
+        db.create_all()
+
+        # Ruta del archivo XML, ajustada para partir desde scripts/
+        xml_file_path = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), '..', 'archivados_xml', 'facultades.xml')
+        )
+
+        if not os.path.exists(xml_file_path):
+            print(f"ERROR: No se encontró el archivo XML: {xml_file_path}")
+            return
+
+        print(f"Importando desde: {xml_file_path}")
+
+        tree = ET.parse(xml_file_path)
         root = tree.getroot()
 
-        for facultad_elem in root.findall("facultad"):
-            nombre = facultad_elem.find("nombre").text
-            codigo = facultad_elem.find("codigo").text
+        registros_importados = 0
+        for item in root.findall('_expxml'):
+            facultad_element = item.find('facultad')
+            nombre_element = item.find('nombre')
 
-            nueva_facultad = Facultad(nombre=nombre, codigo=codigo)
-            db.session.add(nueva_facultad)
+            if facultad_element is not None and nombre_element is not None:
+                try:
+                    facultad = int(facultad_element.text)
+                    nombre = nombre_element.text
+
+                    new_entry = FacultadModel(facultad=facultad, nombre=nombre)
+                    db.session.add(new_entry)
+                    registros_importados += 1
+                except Exception as e:
+                    print(f"Error al procesar item: {ET.tostring(item, encoding='unicode')}\n{e}")
+            else:
+                print(f"Skipping item por falta de 'facultad' o 'nombre': {ET.tostring(item, encoding='unicode')}")
 
         db.session.commit()
-        print(f"Facultades importadas desde {xml_path} correctamente.")
 
-if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Uso: python scrips/import_facultades.py archivo.xml")
-        sys.exit(1)
+        print(f"Importación finalizada. Registros insertados: {registros_importados}")
 
-    ruta_xml = sys.argv[1]
-    importar_facultades(ruta_xml)
+if __name__ == '__main__':
+    importar_facultades()
