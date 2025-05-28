@@ -8,10 +8,10 @@ from xml.etree import ElementTree as ET
 class EspecialidadModel(db.Model):
     __tablename__ = 'especialidades'
     id = db.Column(db.Integer, primary_key=True)
+    especialidad = db.Column(db.Integer, nullable=False)  # Campo agregado
     nombre = db.Column(db.String(255), nullable=False)
-    letra = db.Column(db.string(255), nullable=False)
     observacion = db.Column(db.String(255), nullable=True)
-    
+
 class XMLImportTestCase(unittest.TestCase):
 
     def setUp(self):
@@ -22,6 +22,7 @@ class XMLImportTestCase(unittest.TestCase):
         self.app_context = self.app.app_context()
         self.app_context.push()
 
+        db.drop_all()  # Limpia la base de datos antes de crear las tablas
         db.create_all()
 
     def tearDown(self):
@@ -45,19 +46,17 @@ class XMLImportTestCase(unittest.TestCase):
         for item in root.findall('_expxml'):
             especialidad_element = item.find('especialidad')
             nombre_element = item.find('nombre')
-            observacion_element = item.find('observacion')
 
             # Aseguramos que los elementos no sean None
             if especialidad_element is not None and nombre_element is not None:
-                especialidad = especialidad_element.text
+                especialidad = int(especialidad_element.text)
                 nombre = nombre_element.text
-                observacion = observacion_element.text
 
                 # Insertamos en la base de datos
-                new_entry = EspecialidadModel(especialidad = especialidad, nombre=nombre, observacion = observacion)
+                new_entry = EspecialidadModel(especialidad=especialidad, nombre=nombre)
                 db.session.add(new_entry)
             else:
-                print(f"skipeo el item por que falta algun dato {ET.tostring(item, encoding='unicode')}")
+                print(f"skipeo el item por que falta algun dato. Especialidad: {especialidad_element}, Nombre: {nombre_element}")
 
         db.session.commit()
 
@@ -65,7 +64,7 @@ class XMLImportTestCase(unittest.TestCase):
         results = EspecialidadModel.query.all()
         self.assertGreater(len(results), 0, "No se insertaron datos en la base de datos.")
         for result in results:
-            print(f"Facultad: {result.facultad}, Nombre: {result.nombre}")
+            print(f"Especialidad: {result.especialidad}, Nombre: {result.nombre}")
 
 if __name__ == '__main__':
     unittest.main()
