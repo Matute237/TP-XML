@@ -65,7 +65,7 @@ class XMLImportTestCase(unittest.TestCase):
         results = EspecialidadModel.query.all()
         self.assertGreater(len(results), 0, "No se insertaron datos en la base de datos.")
         for result in results:
-            print(f"Facultad: {result.facultad}, Nombre: {result.nombre}")
+            print(f"Facultad: {result.especialidad}, Nombre: {result.nombre},Observacion: {result.observacion}")
 
 if __name__ == '__main__':
     unittest.main()
