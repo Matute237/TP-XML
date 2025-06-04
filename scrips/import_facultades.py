@@ -7,7 +7,7 @@ from app import create_app, db
 from xml.etree import ElementTree as ET
 from sqlalchemy.exc import IntegrityError
 from app.models.facultad import Facultad
-from decode import decode
+import funcion_decode
 
 def importar_facultades():
     # Configuraciones de entorno
@@ -47,7 +47,7 @@ def importar_facultades():
             if facultad_element is not None and nombre_element is not None:
                 try:
                     facultad_id = int(facultad_element.text)
-                    nombre = decode(nombre_element.text)
+                    nombre = funcion_decode.decode_win1252(nombre_element.text)
 
                     # Verificar si ya existe
                     existing = Facultad.query.get(facultad_id)
@@ -56,20 +56,20 @@ def importar_facultades():
                         registros_duplicados += 1
                         continue
 
-                    # Crear nueva facultad usando decode en cada campo de texto
+                    # Crear nueva facultad usando funcion_decode.decode_win1252 en cada campo de texto
                     new_entry = Facultad(
                         id=facultad_id,
                         nombre=nombre,
-                        abreviatura=decode(item.find('abreviatura').text) if item.find('abreviatura') is not None else None,   
-                        directorio=decode(item.find('directorio').text) if item.find('directorio') is not None else None,
-                        sigla=decode(item.find('sigla').text) if item.find('sigla') is not None else None,
-                        codigo_postal=decode(item.find('codigo_postal').text) if item.find('codigo_postal') is not None else None,
-                        ciudad=decode(item.find('ciudad').text) if item.find('ciudad') is not None else None,
-                        domicilio=decode(item.find('domicilio').text) if item.find('domicilio') is not None else None,
-                        telefono=decode(item.find('telefono').text) if item.find('telefono') is not None else None,
-                        contacto=decode(item.find('contacto').text) if item.find('contacto') is not None else None,
-                        email=decode(item.find('email').text) if item.find('email') is not None else None,
-                        codigo=decode(item.find('codigo').text) if item.find('codigo') is not None else None
+                        abreviatura=funcion_decode.decode_win1252(item.find('abreviatura').text) if item.find('abreviatura') is not None else None,   
+                        directorio=funcion_decode.decode_win1252(item.find('directorio').text) if item.find('directorio') is not None else None,
+                        sigla=funcion_decode.decode_win1252(item.find('sigla').text) if item.find('sigla') is not None else None,
+                        codigo_postal=funcion_decode.decode_win1252(item.find('codigo_postal').text) if item.find('codigo_postal') is not None else None,
+                        ciudad=funcion_decode.decode_win1252(item.find('ciudad').text) if item.find('ciudad') is not None else None,
+                        domicilio=funcion_decode.decode_win1252(item.find('domicilio').text) if item.find('domicilio') is not None else None,
+                        telefono=funcion_decode.decode_win1252(item.find('telefono').text) if item.find('telefono') is not None else None,
+                        contacto=funcion_decode.decode_win1252(item.find('contacto').text) if item.find('contacto') is not None else None,
+                        email=funcion_decode.decode_win1252(item.find('email').text) if item.find('email') is not None else None,
+                        codigo=funcion_decode.decode_win1252(item.find('codigo').text) if item.find('codigo') is not None else None
                     )
 
                     db.session.add(new_entry)
