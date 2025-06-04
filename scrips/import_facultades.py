@@ -27,7 +27,9 @@ def importar_facultades():
 
         print(f"Importando desde: {xml_file_path}")
 
-        tree = ET.parse(xml_file_path)
+        # Abrir el archivo XML con la codificación correcta
+        with open(xml_file_path, encoding="cp1252") as f:
+            tree = ET.parse(f)
         root = tree.getroot()
 
         registros_importados = 0
