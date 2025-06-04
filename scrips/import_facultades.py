@@ -12,7 +12,7 @@ import funcion_decode
 def importar_facultades():
     # Configuraciones de entorno
     os.environ['FLASK_CONTEXT'] = 'development'
-    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
+    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad?client_encoding=utf8'
 
     app = create_app()
     with app.app_context():
@@ -71,6 +71,22 @@ def importar_facultades():
                         email=funcion_decode.decode_win1252(item.find('email').text) if item.find('email') is not None else None,
                         codigo=funcion_decode.decode_win1252(item.find('codigo').text) if item.find('codigo') is not None else None
                     )
+
+                    # Mostrar los datos antes de guardar
+                    print("\n=== Datos a guardar ===")
+                    print(f"ID: {new_entry.id}")
+                    print(f"Nombre: {new_entry.nombre}")
+                    print(f"Abreviatura: {new_entry.abreviatura}")
+                    print(f"Directorio: {new_entry.directorio}")
+                    print(f"Sigla: {new_entry.sigla}")
+                    print(f"Código Postal: {new_entry.codigo_postal}")
+                    print(f"Ciudad: {new_entry.ciudad}")
+                    print(f"Domicilio: {new_entry.domicilio}")
+                    print(f"Teléfono: {new_entry.telefono}")
+                    print(f"Contacto: {new_entry.contacto}")
+                    print(f"Email: {new_entry.email}")
+                    print(f"Código: {new_entry.codigo}")
+                    print("=" * 50)
 
                     db.session.add(new_entry)
                     db.session.commit()

@@ -2,4 +2,4 @@
 def decode_win1252(text):
     if text is None:
         return None
-    return text.encode('latin1').decode('windows-1252').encode('utf-8')
+    return text.encode('latin1').decode('windows-1252').encode('utf-8').decode('utf-8')
