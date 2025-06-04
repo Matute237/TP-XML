@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+    <_expxml>
+        <especialidad>1001</especialidad>
+        <nombre>Maestría en Inteligencia Artificial</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1002</especialidad>
+        <nombre>Doctorado en Ciencia de Datos</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1003</especialidad>
+        <nombre>Especialización en Blockchain</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1004</especialidad>
+        <nombre>Tecnicatura en Desarrollo Web</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1005</especialidad>
+        <nombre>Licenciatura en Ciberseguridad</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1006</especialidad>
+        <nombre>Maestría en Cloud Computing</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1007</especialidad>
+        <nombre>Especialización en DevOps</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1008</especialidad>
+        <nombre>Tecnicatura en Testing de Software</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1009</especialidad>
+        <nombre>Maestría en IoT y Sistemas Embebidos</nombre>
+    </_expxml>
+    <_expxml>
+        <especialidad>1010</especialidad>
+        <nombre>Doctorado en Robótica Avanzada</nombre>
+    </_expxml>
+</VFPData>

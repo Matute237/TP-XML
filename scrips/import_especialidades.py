@@ -7,6 +7,7 @@ from app import create_app, db
 from xml.etree import ElementTree as ET
 from sqlalchemy.exc import IntegrityError
 from app.models.especialidad import EspecialidadModel
+from sqlalchemy import text  # Agregar esta importación al inicio del archivo
 
 def importar_especialidades():
     # Configuraciones de entorno
@@ -16,6 +17,16 @@ def importar_especialidades():
     app = create_app()
     with app.app_context():
         db.create_all()
+
+        # Resetear la secuencia al máximo ID actual + 1
+        try:
+            result = db.session.execute(text("""
+                SELECT setval('especialidades_id_seq', 
+                    COALESCE((SELECT MAX(id) FROM especialidades), 0) + 1, false)
+            """))
+        except Exception as e:
+            print(f"Error al resetear secuencia: {e}")
+            return
 
         # Ruta del XML
         xml_file_path = os.path.abspath(
@@ -27,7 +38,8 @@ def importar_especialidades():
             return
 
         print(f"Importando desde: {xml_file_path}")
-
+        
+        # Intentar parsear el XML
         try:
             tree = ET.parse(xml_file_path)
             root = tree.getroot()
@@ -38,11 +50,13 @@ def importar_especialidades():
         registros_importados = 0
         registros_duplicados = 0
         registros_error = 0
-
+        
+        # Iterar sobre los elementos del XML
         for item in root.findall('_expxml'):
             especialidad_element = item.find('especialidad')
             nombre_element = item.find('nombre')
-
+            
+            # Verificar que los elementos existan
             if (especialidad_element is not None and nombre_element is not None):
                 try:
                     especialidad = especialidad_element.text
@@ -59,7 +73,11 @@ def importar_especialidades():
                         registros_duplicados += 1
                         continue
 
-                    new_entry = EspecialidadModel(especialidad=especialidad, nombre=nombre)
+                    # No necesitas especificar el id, se generará automáticamente
+                    new_entry = EspecialidadModel(
+                        especialidad=especialidad,
+                        nombre=nombre
+                    )
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1

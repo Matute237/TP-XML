@@ -16,8 +16,11 @@ def importar_facultades():
     with app.app_context():
         db.create_all()
 
-        xml_file_path = os.path.join(BASE_DIR, 'archivados_xml', 'facultades.xml')
-
+        # Ruta del XML
+        xml_file_path = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), '..', 'archivados_xml', 'especialidades.xml')
+        )
+        
         if not os.path.exists(xml_file_path):
             print(f"ERROR: No se encontró el archivo XML: {xml_file_path}")
             return
