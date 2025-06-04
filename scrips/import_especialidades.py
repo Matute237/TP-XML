@@ -1,32 +1,28 @@
 import sys
 import os
+import locale
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
+
+# Configurar codificación
+locale.setlocale(locale.LC_ALL, 'Spanish_Spain.1252')
+sys.stdout.reconfigure(encoding='utf-8')
+
 from app import create_app, db
 from xml.etree import ElementTree as ET
 from sqlalchemy.exc import IntegrityError
 from app.models.especialidad import EspecialidadModel
-from sqlalchemy import text  # Agregar esta importación al inicio del archivo
+import funcion_decode
 
 def importar_especialidades():
     # Configuraciones de entorno
     os.environ['FLASK_CONTEXT'] = 'development'
-    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad'
+    os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad?client_encoding=utf8'
 
     app = create_app()
     with app.app_context():
         db.create_all()
-
-        # Resetear la secuencia al máximo ID actual + 1
-        try:
-            result = db.session.execute(text("""
-                SELECT setval('especialidades_id_seq', 
-                    COALESCE((SELECT MAX(id) FROM especialidades), 0) + 1, false)
-            """))
-        except Exception as e:
-            print(f"Error al resetear secuencia: {e}")
-            return
 
         # Ruta del XML
         xml_file_path = os.path.abspath(
@@ -39,10 +35,10 @@ def importar_especialidades():
 
         print(f"Importando desde: {xml_file_path}")
         
-        # Intentar parsear el XML
         try:
-            tree = ET.parse(xml_file_path)
-            root = tree.getroot()
+            with open(xml_file_path, 'r', encoding='cp1252') as file:
+                tree = ET.parse(file)
+                root = tree.getroot()
         except ET.ParseError as e:
             print(f"Error al parsear el archivo XML: {e}")
             return
@@ -50,41 +46,52 @@ def importar_especialidades():
         registros_importados = 0
         registros_duplicados = 0
         registros_error = 0
-        
-        # Iterar sobre los elementos del XML
+
         for item in root.findall('_expxml'):
             especialidad_element = item.find('especialidad')
             nombre_element = item.find('nombre')
-            
-            # Verificar que los elementos existan
-            if (especialidad_element is not None and nombre_element is not None):
+
+            if especialidad_element is not None and nombre_element is not None:
                 try:
-                    especialidad = especialidad_element.text
-                    nombre = nombre_element.text
+                    especialidad_id = int(especialidad_element.text)
+                    nombre = funcion_decode.decode_win1252(nombre_element.text)
 
                     # Verificar si ya existe
-                    existing = EspecialidadModel.query.filter_by(
-                        especialidad=especialidad,
-                        nombre=nombre
-                    ).first()
-
+                    existing = EspecialidadModel.query.get(especialidad_id)
                     if existing:
-                        print(f"Registro duplicado: {especialidad} - {nombre}")
+                        print(f"Registro duplicado ID {especialidad_id}: {nombre}")
                         registros_duplicados += 1
                         continue
 
-                    # No necesitas especificar el id, se generará automáticamente
+                    # Crear nueva especialidad
                     new_entry = EspecialidadModel(
-                        especialidad=especialidad,
-                        nombre=nombre
+                        id=especialidad_id,
+                        especialidad=especialidad_id,
+                        nombre=nombre,
+                        letra=funcion_decode.decode_win1252(item.find('letra').text) if item.find('letra') is not None else None,
+                        observacion=funcion_decode.decode_win1252(item.find('observacion').text) if item.find('observacion') is not None else None
                     )
+
+                    # Mostrar los datos antes de guardar
+                    print("\n=== Datos a guardar ===")
+                    print(f"ID: {new_entry.id}")
+                    print(f"Especialidad: {new_entry.especialidad}")
+                    print(f"Nombre: {new_entry.nombre}")
+                    print(f"Letra: {new_entry.letra}")
+                    print(f"Observación: {new_entry.observacion}")
+                    print("=" * 50)
+
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1
 
+                except ValueError:
+                    db.session.rollback()
+                    print(f"Error: El valor de especialidad no es un número válido: {especialidad_element.text}")
+                    registros_error += 1
                 except IntegrityError:
                     db.session.rollback()
-                    print(f"Error de integridad al insertar: {especialidad} - {nombre}")
+                    print(f"Error de integridad al insertar especialidad {especialidad_id}")
                     registros_error += 1
                 except Exception as e:
                     db.session.rollback()
