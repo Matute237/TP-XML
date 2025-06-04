@@ -33,7 +33,7 @@ if not hasattr(EspecialidadModel, 'planes'):
     EspecialidadModel.planes = relationship('PlanModel', back_populates='especialidad_obj', cascade="all, delete-orphan")
 
 def importar_planes():
-    os.environ['FLASK_CONTEXT'] = 'testing'
+    os.environ['FLASK_CONTEXT'] = 'development'
     locale.setlocale(locale.LC_ALL, 'Spanish_Spain.1252')
     sys.stdout.reconfigure(encoding='utf-8')
 

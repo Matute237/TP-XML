@@ -1,17 +1,30 @@
 import sys
 import os
+import locale
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
 
+# Configurar codificación
+locale.setlocale(locale.LC_ALL, 'Spanish_Spain.1252')
+sys.stdout.reconfigure(encoding='utf-8')
 
 from app import create_app, db
 from xml.etree import ElementTree as ET
 from sqlalchemy.exc import IntegrityError
-from app.models.grado import Grado
 import funcion_decode
+from dataclasses import dataclass
 
-def importar_grados():
+@dataclass(init=False, repr=True, eq=True)
+class Localidad(db.Model):
+    __tablename__ = 'localidades'
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    codigo = db.Column(db.Integer, nullable=False)
+    ciudad = db.Column(db.String(100), nullable=False)
+    provincia = db.Column(db.String(50), nullable=True)
+    pais = db.Column(db.String(50), nullable=True)
+
+def importar_localidades():
     # Configuraciones de entorno
     os.environ['FLASK_CONTEXT'] = 'development'
     os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad?client_encoding=UTF8&options=-csearch_path%3Dpublic'
@@ -22,7 +35,7 @@ def importar_grados():
 
         # Ruta del XML
         xml_file_path = os.path.abspath(
-            os.path.join(os.path.dirname(__file__), '..', 'archivados_xml', 'grados.xml')
+            os.path.join(os.path.dirname(__file__), '..', 'archivados_xml', 'localidades.xml')
         )
 
         if not os.path.exists(xml_file_path):
@@ -42,32 +55,38 @@ def importar_grados():
         registros_duplicados = 0
         registros_error = 0
 
-        for item in root.findall('_expxml'):
-            grado_element = item.find('grado')
-            nombre_element = item.find('nombre')
+        for item in root.findall('_exportar'):
+            codigo_element = item.find('codigo')
+            ciudad_element = item.find('ciudad')
 
-            if grado_element is not None and nombre_element is not None:
+            if codigo_element is not None and ciudad_element is not None:
                 try:
-                    grado_id = int(grado_element.text)
-                    nombre = funcion_decode.decode_win1252(nombre_element.text)
+                    codigo = int(codigo_element.text)
+                    ciudad = funcion_decode.decode_win1252(ciudad_element.text)
 
                     # Verificar si ya existe
-                    existing = Grado.query.get(grado_id)
+                    existing = Localidad.query.get(codigo)
                     if existing:
-                        print(f"Registro duplicado ID {grado_id}: {nombre}")
+                        print(f"Registro duplicado ID {codigo}: {ciudad}")
                         registros_duplicados += 1
                         continue
 
-                    # Crear nuevo grado
-                    new_entry = Grado(
-                        id=grado_id,
-                        nombre=nombre,
+                    # Crear nueva localidad
+                    new_entry = Localidad(
+                        id=codigo,
+                        codigo=codigo,
+                        ciudad=ciudad,
+                        provincia=funcion_decode.decode_win1252(item.find('provincia').text) if item.find('provincia') is not None else None,
+                        pais=funcion_decode.decode_win1252(item.find('pais_del_c').text) if item.find('pais_del_c') is not None else None
                     )
 
                     # Mostrar los datos antes de guardar
                     print("\n=== Datos a guardar ===")
                     print(f"ID: {new_entry.id}")
-                    print(f"Nombre: {new_entry.nombre}")
+                    print(f"Código: {new_entry.codigo}")
+                    print(f"Ciudad: {new_entry.ciudad}")
+                    print(f"Provincia: {new_entry.provincia}")
+                    print(f"País: {new_entry.pais}")
                     print("=" * 50)
 
                     db.session.add(new_entry)
@@ -76,11 +95,11 @@ def importar_grados():
 
                 except ValueError:
                     db.session.rollback()
-                    print(f"Error: El valor de grado no es un número válido: {grado_element.text}")
+                    print(f"Error: El valor de código no es un número válido: {codigo_element.text}")
                     registros_error += 1
                 except IntegrityError:
                     db.session.rollback()
-                    print(f"Error de integridad al insertar grado {grado_id}")
+                    print(f"Error de integridad al insertar localidad {codigo}")
                     registros_error += 1
                 except Exception as e:
                     db.session.rollback()
@@ -98,4 +117,4 @@ Importación finalizada:
 """)
 
 if __name__ == '__main__':
-    importar_grados()
+    importar_localidades()

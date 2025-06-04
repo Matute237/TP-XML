@@ -6,8 +6,8 @@ from app import db
 class Grado(db.Model):
     __tablename__ = 'grados'
     id: int = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    nombre: str = db.Column(db.String(50), nullable=False)
-    descripcion: str = db.Column(db.String(200), nullable=False)
+    nombre: str = db.Column(db.String(50), nullable=True)
+    descripcion: str = db.Column(db.String(200), nullable=True)
     
 
 

@@ -2,7 +2,7 @@
 <VFPData>
 	<_exportar>
 		<codigo>1</codigo>
-		<ciudad>Ciudad Autónoma de Buenos Aires</ciudad>
+		<ciudad>Ciudad Autï¿½noma de Buenos Aires</ciudad>
 		<provincia>Capital Federal</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -158,7 +158,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>502</codigo>
-		<ciudad>MUÑIZ</ciudad>
+		<ciudad>MUï¿½IZ</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -176,7 +176,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>552</codigo>
-		<ciudad>SAENZ PEÑA</ciudad>
+		<ciudad>SAENZ PEï¿½A</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -356,7 +356,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>834</codigo>
-		<ciudad>CAÑUELAS</ciudad>
+		<ciudad>CAï¿½UELAS</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -848,7 +848,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>1720</codigo>
-		<ciudad>PORTEÑA</ciudad>
+		<ciudad>PORTEï¿½A</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -998,7 +998,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>1830</codigo>
-		<ciudad>CAÑADA ROSQUIN</ciudad>
+		<ciudad>CAï¿½ADA ROSQUIN</ciudad>
 		<provincia>Santa Fe</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -1010,7 +1010,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>1836</codigo>
-		<ciudad>CAÑADA DE GOMEZ</ciudad>
+		<ciudad>CAï¿½ADA DE GOMEZ</ciudad>
 		<provincia>Santa Fe</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -1064,7 +1064,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>1881</codigo>
-		<ciudad>ORDOÑEZ</ciudad>
+		<ciudad>ORDOï¿½EZ</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -1178,7 +1178,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>1952</codigo>
-		<ciudad>VILLA CAÑAS</ciudad>
+		<ciudad>VILLA CAï¿½AS</ciudad>
 		<provincia>Santa Fe</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -1388,7 +1388,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>2267</codigo>
-		<ciudad>CAPILLA DEL SEÑOR</ciudad>
+		<ciudad>CAPILLA DEL SEï¿½OR</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -2570,7 +2570,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>5859</codigo>
-		<ciudad>EL PORTEÑO</ciudad>
+		<ciudad>EL PORTEï¿½O</ciudad>
 		<provincia>Formosa</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -2606,7 +2606,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>6036</codigo>
-		<ciudad>PRESIDENCIA ROQUE SAENZ PEÑA</ciudad>
+		<ciudad>PRESIDENCIA ROQUE SAENZ PEï¿½A</ciudad>
 		<provincia>Chaco</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -2708,194 +2708,194 @@
 	</_exportar>
 	<_exportar>
 		<codigo>6339</codigo>
-		<ciudad>AÑATUYA</ciudad>
+		<ciudad>Aï¿½ATUYA</ciudad>
 		<provincia>Santiago del Estero</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6398</codigo>
 		<ciudad>SAN MIGUEL DE TUCUMAN</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6401</codigo>
 		<ciudad>VILLA LUJAN</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6422</codigo>
 		<ciudad>EL TIMBO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6435</codigo>
 		<ciudad>LOS NOGALES</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6438</codigo>
 		<ciudad>MEDINA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6469</codigo>
 		<ciudad>TAFI VIEJO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6477</codigo>
 		<ciudad>CEVIL REDONDO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6494</codigo>
 		<ciudad>EL MANANTIAL</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6515</codigo>
 		<ciudad>VILLA MARCOS PAZ</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6516</codigo>
 		<ciudad>YERBA BUENA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6519</codigo>
 		<ciudad>BANDA DEL RIO SALI</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6535</codigo>
 		<ciudad>COLOMBRES</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6541</codigo>
 		<ciudad>EL BRACHO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6558</codigo>
 		<ciudad>LASTENIA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6580</codigo>
 		<ciudad>SANTA ROSA DE LEALES</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6640</codigo>
 		<ciudad>MANCOPA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6709</codigo>
 		<ciudad>LA BANDA (BENJAMIN ARAOZ-DPTO. BURRUYACU)</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6750</codigo>
 		<ciudad>LA HIGUERA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6770</codigo>
 		<ciudad>TAPIA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6803</codigo>
 		<ciudad>SAN PEDRO DE COLALAO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6809</codigo>
 		<ciudad>TRANCAS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6837</codigo>
 		<ciudad>LULES</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6845</codigo>
 		<ciudad>SAN PABLO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6863</codigo>
 		<ciudad>FAMAILLA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6878</codigo>
 		<ciudad>LA BANDA (PADILLA-DPTO. FAMAILLA)</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6881</codigo>
 		<ciudad>ACHERAL</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6891</codigo>
 		<ciudad>SANTA LUCIA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6900</codigo>
 		<ciudad>AMAICHA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6901</codigo>
 		<ciudad>AMAICHA DEL VALLE</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6906</codigo>
 		<ciudad>LA BANDA (SAN PEDRO DE COLALAO-DPTO. TAFI VIEJO)</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>6917</codigo>
 		<ciudad>TAFI DEL VALLE</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -2919,175 +2919,175 @@
 	<_exportar>
 		<codigo>7009</codigo>
 		<ciudad>MONTEROS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7023</codigo>
 		<ciudad>SANTA ROSA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7028</codigo>
 		<ciudad>VILLA QUINTEROS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7030</codigo>
 		<ciudad>RIO SECO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7033</codigo>
 		<ciudad>CONCEPCION</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7076</codigo>
 		<ciudad>LA TRINIDAD</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7079</codigo>
 		<ciudad>MEDINAS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7086</codigo>
 		<ciudad>AGUILARES</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7107</codigo>
 		<ciudad>RIO CHICO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7111</codigo>
 		<ciudad>SANTA ANA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7117</codigo>
 		<ciudad>CEVIL SOLO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7126</codigo>
 		<ciudad>LOS CORDOBA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7130</codigo>
 		<ciudad>LOS SARMIENTOS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7155</codigo>
 		<ciudad>VILLA ALBERDI</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7156</codigo>
 		<ciudad>VILLA BELGRANO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7189</codigo>
 		<ciudad>LA COCHA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7207</codigo>
 		<ciudad>BAJASTINE</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7209</codigo>
 		<ciudad>EL SUNCHO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7226</codigo>
 		<ciudad>RIO COLORADO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7231</codigo>
 		<ciudad>BELLA VISTA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7240</codigo>
 		<ciudad>EL JARDIN</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7244</codigo>
 		<ciudad>LAS CEJAS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7249</codigo>
 		<ciudad>SIMOCA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7275</codigo>
 		<ciudad>MONTEAGUDO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7307</codigo>
 		<ciudad>ALDERETES</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7308</codigo>
 		<ciudad>ARAOZ</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7320</codigo>
 		<ciudad>CRUZ DEL NORTE (ESTACION FCGM)</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7340</codigo>
 		<ciudad>RANCHILLOS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>7354</codigo>
 		<ciudad>LOS RALOS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -3111,7 +3111,7 @@
 	<_exportar>
 		<codigo>7539</codigo>
 		<ciudad>LA FLORIDA</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -3165,13 +3165,13 @@
 	<_exportar>
 		<codigo>8155</codigo>
 		<ciudad>TACO RALO</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>8156</codigo>
 		<ciudad>LAS TALITAS</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -3284,7 +3284,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>9223</codigo>
-		<ciudad>GENERAL GÜEMES</ciudad>
+		<ciudad>GENERAL Gï¿½EMES</ciudad>
 		<provincia>Salta</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -3782,7 +3782,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>10650</codigo>
-		<ciudad>DESPEÑADEROS</ciudad>
+		<ciudad>DESPEï¿½ADEROS</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -3866,7 +3866,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>10818</codigo>
-		<ciudad>ARGÜELLO</ciudad>
+		<ciudad>ARGï¿½ELLO</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4046,7 +4046,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>11227</codigo>
-		<ciudad>SAN FRANCISCO DEL CHAÑAR</ciudad>
+		<ciudad>SAN FRANCISCO DEL CHAï¿½AR</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4112,7 +4112,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>11479</codigo>
-		<ciudad>LAS PEÑAS (DPTO. TOTORAL)</ciudad>
+		<ciudad>LAS PEï¿½AS (DPTO. TOTORAL)</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4232,7 +4232,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>12344</codigo>
-		<ciudad>SAGRADA FAMILIA (TALA CAÑADA-DPTO. POCHO)</ciudad>
+		<ciudad>SAGRADA FAMILIA (TALA CAï¿½ADA-DPTO. POCHO)</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4436,7 +4436,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>13128</codigo>
-		<ciudad>ÑOQUEVES</ciudad>
+		<ciudad>ï¿½OQUEVES</ciudad>
 		<provincia>La Rioja</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4628,7 +4628,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>13568</codigo>
-		<ciudad>TRES PORTEÑAS</ciudad>
+		<ciudad>TRES PORTEï¿½AS</ciudad>
 		<provincia>Mendoza</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4652,7 +4652,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>13622</codigo>
-		<ciudad>CAÑADA SECA</ciudad>
+		<ciudad>CAï¿½ADA SECA</ciudad>
 		<provincia>Mendoza</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4670,7 +4670,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>13674</codigo>
-		<ciudad>VALLE DE LAS LEÑAS</ciudad>
+		<ciudad>VALLE DE LAS LEï¿½AS</ciudad>
 		<provincia>Mendoza</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4796,7 +4796,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>14727</codigo>
-		<ciudad>LAS PEÑAS</ciudad>
+		<ciudad>LAS PEï¿½AS</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4808,7 +4808,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>14736</codigo>
-		<ciudad>LAS PEÑAS SUD</ciudad>
+		<ciudad>LAS PEï¿½AS SUD</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -4820,7 +4820,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>14753</codigo>
-		<ciudad>LAS PEÑAS NORTE</ciudad>
+		<ciudad>LAS PEï¿½AS NORTE</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -5102,7 +5102,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>15181</codigo>
-		<ciudad>EL ARAÑADO</ciudad>
+		<ciudad>EL ARAï¿½ADO</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -5210,7 +5210,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>15270</codigo>
-		<ciudad>ARRIBEÑOS</ciudad>
+		<ciudad>ARRIBEï¿½OS</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -5312,7 +5312,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>15431</codigo>
-		<ciudad>VICUÑA MACKENNA</ciudad>
+		<ciudad>VICUï¿½A MACKENNA</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -5414,7 +5414,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>15628</codigo>
-		<ciudad>CAÑADA VERDE (VA. HUIDIBRO)</ciudad>
+		<ciudad>CAï¿½ADA VERDE (VA. HUIDIBRO)</ciudad>
 		<provincia>Cordoba</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -5636,7 +5636,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>16296</codigo>
-		<ciudad>LA NIÑA</ciudad>
+		<ciudad>LA NIï¿½A</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -6098,7 +6098,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>17383</codigo>
-		<ciudad>PIGÜE</ciudad>
+		<ciudad>PIGï¿½E</ciudad>
 		<provincia>Buenos Aires</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -6141,7 +6141,7 @@
 	<_exportar>
 		<codigo>17584</codigo>
 		<ciudad>NEUQUEN</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -6159,37 +6159,37 @@
 	<_exportar>
 		<codigo>17657</codigo>
 		<ciudad>PIEDRA DEL AGUILA</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17671</codigo>
 		<ciudad>PLOTTIER</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17672</codigo>
 		<ciudad>SENILLOSA</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17689</codigo>
 		<ciudad>PLAZA HUINCUL</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17696</codigo>
 		<ciudad>RINCON DE LOS SAUCES</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17699</codigo>
 		<ciudad>CUTRAL-CO</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -6225,61 +6225,61 @@
 	<_exportar>
 		<codigo>17783</codigo>
 		<ciudad>CONFLUENCIA COVUNCO</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17811</codigo>
 		<ciudad>ZAPALA</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17871</codigo>
 		<ciudad>LAS LAJAS</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17915</codigo>
 		<ciudad>LONCOPUE</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17935</codigo>
 		<ciudad>CONFLUENCIA DEL AGUIJON</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17958</codigo>
 		<ciudad>ANDACOLLO</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17965</codigo>
 		<ciudad>BUTA RANQUIL</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17981</codigo>
 		<ciudad>CHOS MALAL</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>17986</codigo>
 		<ciudad>EL CHOLAR</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>18011</codigo>
 		<ciudad>LOS CARRIZOS</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -6291,13 +6291,13 @@
 	<_exportar>
 		<codigo>18100</codigo>
 		<ciudad>SAN MARTIN DE LOS ANDES</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>18107</codigo>
 		<ciudad>JUNIN DE LOS ANDES</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -6314,7 +6314,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>18250</codigo>
-		<ciudad>ÑORQUINCO SUD</ciudad>
+		<ciudad>ï¿½ORQUINCO SUD</ciudad>
 		<provincia>Chubut</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -7196,7 +7196,7 @@
 	</_exportar>
 	<_exportar>
 		<codigo>18871</codigo>
-		<ciudad>LANGUIÑEO</ciudad>
+		<ciudad>LANGUIï¿½EO</ciudad>
 		<provincia>Chubut</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
@@ -7725,13 +7725,13 @@
 	<_exportar>
 		<codigo>19117</codigo>
 		<ciudad>USHUAIA</ciudad>
-		<provincia>Tierra del Fuego, Antártida e</provincia>
+		<provincia>Tierra del Fuego, Antï¿½rtida e</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>19147</codigo>
 		<ciudad>RIO GRANDE</ciudad>
-		<provincia>Tierra del Fuego, Antártida e</provincia>
+		<provincia>Tierra del Fuego, Antï¿½rtida e</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -7816,7 +7816,7 @@
 		<codigo>298998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Canadá</pais_del_c>
+		<pais_del_c>Canadï¿½</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>598998</codigo>
@@ -7840,19 +7840,19 @@
 		<codigo>3298998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Bélgica</pais_del_c>
+		<pais_del_c>Bï¿½lgica</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>3498998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>España</pais_del_c>
+		<pais_del_c>Espaï¿½a</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>3698998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Hungría</pais_del_c>
+		<pais_del_c>Hungrï¿½a</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>3998998</codigo>
@@ -7882,7 +7882,7 @@
 		<codigo>5298998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>México</pais_del_c>
+		<pais_del_c>Mï¿½xico</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>5398998</codigo>
@@ -7965,7 +7965,7 @@
 	<_exportar>
 		<codigo>5458007</codigo>
 		<ciudad>Indeterminada</ciudad>
-		<provincia>Neuquén</provincia>
+		<provincia>Neuquï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -8013,13 +8013,13 @@
 	<_exportar>
 		<codigo>5490007</codigo>
 		<ciudad>Indeterminada</ciudad>
-		<provincia>Tucumán</provincia>
+		<provincia>Tucumï¿½n</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>5494007</codigo>
 		<ciudad>Indeterminada</ciudad>
-		<provincia>Tierra del Fuego, Antártida e</provincia>
+		<provincia>Tierra del Fuego, Antï¿½rtida e</provincia>
 		<pais_del_c>Argentina</pais_del_c>
 	</_exportar>
 	<_exportar>
@@ -8080,13 +8080,13 @@
 		<codigo>7798998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Kazajstán</pais_del_c>
+		<pais_del_c>Kazajstï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>8198998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Japón</pais_del_c>
+		<pais_del_c>Japï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>8298998</codigo>
@@ -8110,13 +8110,13 @@
 		<codigo>9298998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Pakistán</pais_del_c>
+		<pais_del_c>Pakistï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>9398998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Afganistán</pais_del_c>
+		<pais_del_c>Afganistï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>9598998</codigo>
@@ -8128,7 +8128,7 @@
 		<codigo>9898998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Irán</pais_del_c>
+		<pais_del_c>Irï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>21298998</codigo>
@@ -8164,7 +8164,7 @@
 		<codigo>22398998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Malí</pais_del_c>
+		<pais_del_c>Malï¿½</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>22498998</codigo>
@@ -8188,7 +8188,7 @@
 		<codigo>22798998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Níger</pais_del_c>
+		<pais_del_c>Nï¿½ger</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>22998998</codigo>
@@ -8230,7 +8230,7 @@
 		<codigo>23798998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Camerún</pais_del_c>
+		<pais_del_c>Camerï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>23898998</codigo>
@@ -8248,7 +8248,7 @@
 		<codigo>24198998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Gabón</pais_del_c>
+		<pais_del_c>Gabï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>24298998</codigo>
@@ -8272,7 +8272,7 @@
 		<codigo>25198998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Etiopía</pais_del_c>
+		<pais_del_c>Etiopï¿½a</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>25398998</codigo>
@@ -8434,7 +8434,7 @@
 		<codigo>37798998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Mónaco</pais_del_c>
+		<pais_del_c>Mï¿½naco</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>37998998</codigo>
@@ -8524,13 +8524,13 @@
 		<codigo>50798998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Panamá</pais_del_c>
+		<pais_del_c>Panamï¿½</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>50998998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Haití</pais_del_c>
+		<pais_del_c>Haitï¿½</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>59198998</codigo>
@@ -8602,7 +8602,7 @@
 		<codigo>67798998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Islas Salomón</pais_del_c>
+		<pais_del_c>Islas Salomï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>67998998</codigo>
@@ -8680,7 +8680,7 @@
 		<codigo>96198998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Líbano</pais_del_c>
+		<pais_del_c>Lï¿½bano</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>96298998</codigo>
@@ -8710,7 +8710,7 @@
 		<codigo>96898998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Omán</pais_del_c>
+		<pais_del_c>Omï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>97198998</codigo>
@@ -8734,7 +8734,7 @@
 		<codigo>97598998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Bhután</pais_del_c>
+		<pais_del_c>Bhutï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>97698998</codigo>
@@ -8752,7 +8752,7 @@
 		<codigo>99498998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Azerbaiyán</pais_del_c>
+		<pais_del_c>Azerbaiyï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>99598998</codigo>
@@ -8764,7 +8764,7 @@
 		<codigo>99698998</codigo>
 		<ciudad>Indeterminada</ciudad>
 		<provincia>Indeterminada</provincia>
-		<pais_del_c>Kirguistán</pais_del_c>
+		<pais_del_c>Kirguistï¿½n</pais_del_c>
 	</_exportar>
 	<_exportar>
 		<codigo>124298998</codigo>
