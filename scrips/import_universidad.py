@@ -70,13 +70,6 @@ def importar_universidades():
                         sigla=funcion_decode.decode_win1252(item.find('sigla').text) if item.find('sigla') is not None else None
                     )
 
-                    # Mostrar los datos antes de guardar
-                    print("\n=== Datos a guardar ===")
-                    print(f"ID: {new_entry.id}")
-                    print(f"Nombre: {new_entry.nombre}")
-                    print(f"Sigla: {new_entry.sigla}")
-                    print("=" * 50)
-
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1

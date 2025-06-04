@@ -64,12 +64,6 @@ def importar_grados():
                         nombre=nombre,
                     )
 
-                    # Mostrar los datos antes de guardar
-                    print("\n=== Datos a guardar ===")
-                    print(f"ID: {new_entry.id}")
-                    print(f"Nombre: {new_entry.nombre}")
-                    print("=" * 50)
-
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1

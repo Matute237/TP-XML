@@ -80,15 +80,6 @@ def importar_localidades():
                         pais=funcion_decode.decode_win1252(item.find('pais_del_c').text) if item.find('pais_del_c') is not None else None
                     )
 
-                    # Mostrar los datos antes de guardar
-                    print("\n=== Datos a guardar ===")
-                    print(f"ID: {new_entry.id}")
-                    print(f"Código: {new_entry.codigo}")
-                    print(f"Ciudad: {new_entry.ciudad}")
-                    print(f"Provincia: {new_entry.provincia}")
-                    print(f"País: {new_entry.pais}")
-                    print("=" * 50)
-
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1

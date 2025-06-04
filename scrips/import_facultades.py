@@ -71,15 +71,7 @@ def importar_especialidades():
                         letra=letra,
                         observacion=observacion
                     )
-
-                    print("\n=== Datos a guardar ===")
-                    print(f"ID: {new_entry.id}")
-                    print(f"Especialidad: {new_entry.especialidad}")
-                    print(f"Nombre: {new_entry.nombre}")
-                    print(f"Letra: {new_entry.letra}")
-                    print(f"Observación: {new_entry.observacion}")
-                    print("=" * 50)
-
+                    
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1

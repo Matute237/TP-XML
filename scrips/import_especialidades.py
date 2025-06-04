@@ -71,16 +71,7 @@ def importar_especialidades():
                         letra=funcion_decode.decode_win1252(item.find('letra').text) if item.find('letra') is not None else None,
                         observacion=funcion_decode.decode_win1252(item.find('observacion').text) if item.find('observacion') is not None else None
                     )
-
-                    # Mostrar los datos antes de guardar
-                    print("\n=== Datos a guardar ===")
-                    print(f"ID: {new_entry.id}")
-                    print(f"Especialidad: {new_entry.especialidad}")
-                    print(f"Nombre: {new_entry.nombre}")
-                    print(f"Letra: {new_entry.letra}")
-                    print(f"Observación: {new_entry.observacion}")
-                    print("=" * 50)
-
+                    
                     db.session.add(new_entry)
                     db.session.commit()
                     registros_importados += 1
