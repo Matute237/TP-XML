@@ -21,7 +21,7 @@ from app.models.especialidad import EspecialidadModel
 
 # modelo orientacion
 class OrientacionModel(db.Model):
-    __tablename__ = ''
+    __tablename__ = 'orientaciones'  # Agregado nombre de tabla
     id = Column(Integer, primary_key=True)
     especialidad_id = Column(Integer, ForeignKey('especialidades.id'), nullable=False)
     plan = Column(Integer, nullable=False)
