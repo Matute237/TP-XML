@@ -17,7 +17,7 @@ import funcion_decode
 
 def importar_especialidades():
     # Configuraciones de entorno
-    os.environ['FLASK_CONTEXT'] = 'testing'
+    os.environ['FLASK_CONTEXT'] = 'development'
     #os.environ['TEST_DATABASE_URI'] = 'postgresql+psycopg2://matuu:matu@localhost:5432/dev_sysacad?client_encoding=utf8'
 
     app = create_app()
